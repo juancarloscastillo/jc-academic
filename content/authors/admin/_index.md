@@ -43,10 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/juankcastillo
+  link: '/contacto/'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: "docs/short CV Juan Castillo EN.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "juancastillov@uchile.cl"
@@ -73,4 +70,4 @@ Soy profesor asociado en el Departamento de Sociología de la Universidad de Chi
 Mi docencia está enfocada en métodos cuantitativos, con especialización en ecuaciones estructurales y modelos multinivel.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/short CV Juan Castillo EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
