@@ -1,7 +1,7 @@
 +++
 title = "Poverty Attributions and the Perceived Justice of Income Inequality: A Comparison of East and West Germany"
 date = "2015-01-01"
-authors = ["Simone M. Schneider", "Juan- Carlos Castillo"]
+authors = ["Simone M. Schneider", "Juan-Carlos Castillo"]
 publication_types = ["2"]
 publication = "Social Psychology Quarterly, 78(3) 263--282. https://doi.org/10.1177/0190272515589298"
 publication_short = "Social Psychology Quarterly, 78(3) 263--282. https://doi.org/10.1177/0190272515589298"

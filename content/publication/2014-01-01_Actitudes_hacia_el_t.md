@@ -1,7 +1,7 @@
 +++
 title = "Actitudes hacia el trabajo y justicia salarial en Chile"
 date = "2014-01-01"
-authors = ["Juan- Carlos Castillo"]
+authors = ["Juan-Carlos Castillo"]
 publication_types = ["4"]
 publication = "Temas de la Agenda Pública (66) 33--44. Santiago: Centro UC de Políticas Públicas, Universidad Católica de Chile"
 publication_short = "Temas de la Agenda Pública (66) 33--44. Santiago: Centro UC de Políticas Públicas, Universidad Católica de Chile"

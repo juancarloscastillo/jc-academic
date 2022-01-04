@@ -1,7 +1,7 @@
 +++
 title = "Impuestos, Redistribución y Meritocracia: Cambios En Chile Entre 1999 y 2019"
 date = "2021-01-01"
-authors = ["Juan- Carlos Castillo", "Julio Iturra", "Francisco Meneses", "Valentina Andrade"]
+authors = ["Juan-Carlos Castillo", "Julio Iturra", "Francisco Meneses", "Valentina Andrade"]
 publication_types = ["6"]
 publication = " In Jorge Atria & Cristóbal Otero: Impuestos Justos Para El Chile Que Viene.  100--126. México: Fondo de Cultura Económica. ISBN: 978-956-289-241-4"
 publication_short = " In Jorge Atria & Cristóbal Otero: Impuestos Justos Para El Chile Que Viene.  100--126. México: Fondo de Cultura Económica. ISBN: 978-956-289-241-4"

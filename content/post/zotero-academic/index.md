@@ -1,7 +1,8 @@
 ---
 title: Extract publications to hugo-academic / wowchemy from Zotero-BetterBibTex
 subtitle:
-
+toc: true
+#type: book
 # Summary for listings and search engines
 summary: This post explains how to automatically extract publications stored in Zotero (or in any reference manager exportable to Bibtex) and publish them as a publication record in hugo-academic using blogdown/R
 
@@ -47,7 +48,7 @@ Using the [academic-hugo](https://academic-demo.netlify.app/) theme for a person
 
 The academic-wowchemy people of course are already aware of this limitation and created an engine that generates publication records (as markdown files) from references stored in Bibtex format, which is great as it is an standard format to export references. This engine is called [hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli), but unfortunately did not worked well for me. I could have tried a bit more but the fact that it is based on python (and I prefer R) and with a limited customization made me look for a different alternative based on R.
 
-I thought it would be pretty known issue, so I was quite surprised that I could not find any alternative for this except for a very nice script from [Lorenzo Busetto](https://www.r-bloggers.com/2018/03/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog-2/) which is a great job. I tried it and it didn't work properly from scratch, probably because it was outdated from previous versions of Zotero and R and its dependencies and packages. So I decided to attempt to tweak it a bit and adapt it to my needs, which resulted in a workflow for integrating publications for the academic-wowchemy theme. This workflow is based on tools as blogdown, Zotero and BetterBibTex, and it assumes that you already have a local project folder with the academic theme installed. If not, I recommend to start reading this excellent post by [Andreas Handel](https://www.andreashandel.com/posts/blogdown-website-1/).
+I thought it would be pretty known issue, so I was quite surprised that I could not find any alternative for this except for a very nice script from [Lorenzo Busetto](https://www.r-bloggers.com/2018/03/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog-2/) which is a great job. I tried it and it didn't work properly from scratch, probably because it was outdated from previous versions of Zotero and R and its dependencies and packages. So I decided to attempt to tweak it a bit and adapt it to my needs, which resulted in a workflow for integrating publications for the academic-wowchemy theme. This workflow is based on tools as blogdown, Zotero and BetterBibTex, and it assumes that you already have a local project folder with the academic theme installed. If not, I recommend to start reading this excellent post by [Andreas Handel](https://www.andreashandel.com/posts/blogdown-website-1/) as well as this other one by [Solomon Kurz](https://solomonkurz.netlify.app/post/2021-05-03-blogdown-updates-prompted-a-website-overhaul-these-are-my-notes/).
 
 # 1. Getting and sync your publications from a reference manager
 

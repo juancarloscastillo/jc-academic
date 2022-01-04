@@ -1,7 +1,7 @@
 +++
 title = "¿Cuál Es La Brecha Salarial Justa? Opinión Pública y Legitimación de La Desigualdad Económica En Chile"
 date = "2009-01-01"
-authors = ["Juan- Carlos Castillo"]
+authors = ["Juan-Carlos Castillo"]
 publication_types = ["2"]
 publication = "Estudios Públicos(113) 237--266."
 publication_short = "Estudios Públicos(113) 237--266."

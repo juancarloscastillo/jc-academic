@@ -1,7 +1,7 @@
 +++
 title = "Todos Somos de Clase Media: Sobre El Estatus Social Subjetivo En Chile"
 date = "2013-01-01"
-authors = ["Juan- Carlos Castillo", "Daniel Miranda", "Ignacio Madero Cabib"]
+authors = ["Juan-Carlos Castillo", "Daniel Miranda", "Ignacio Madero Cabib"]
 publication_types = ["2"]
 publication = "Latin American Research Review, 48(1) 155--173. https://doi.org/10.1353/lar.2013.0006"
 publication_short = "Latin American Research Review, 48(1) 155--173. https://doi.org/10.1353/lar.2013.0006"

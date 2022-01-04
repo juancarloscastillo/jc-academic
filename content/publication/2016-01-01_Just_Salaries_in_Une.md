@@ -1,7 +1,7 @@
 +++
 title = "Just Salaries in Unequal Conditions: An Exploratory Factorial Survey Study in Chile."
 date = "2016-01-01"
-authors = ["Juan- Carlos Castillo"]
+authors = ["Juan-Carlos Castillo"]
 publication_types = ["2"]
 publication = "Cuadernos ISUC, 1(2) 1--30."
 publication_short = "Cuadernos ISUC, 1(2) 1--30."

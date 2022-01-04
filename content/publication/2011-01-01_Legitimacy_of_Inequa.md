@@ -1,7 +1,7 @@
 +++
 title = "Legitimacy of Inequality in a Highly Unequal Context: Evidence from the Chilean Case"
 date = "2011-01-01"
-authors = ["Juan- Carlos Castillo"]
+authors = ["Juan-Carlos Castillo"]
 publication_types = ["2"]
 publication = "Social Justice Research, 24(4) 314--340. https://doi.org/10.1007/s11211-011-0144-5"
 publication_short = "Social Justice Research, 24(4) 314--340. https://doi.org/10.1007/s11211-011-0144-5"

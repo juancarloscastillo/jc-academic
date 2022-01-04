@@ -1,7 +1,7 @@
 +++
 title = "Is Inequality Becoming Just? Changes in Public Opinion about Economic Inequality in Chile"
 date = "2012-01-01"
-authors = ["Juan- Carlos Castillo"]
+authors = ["Juan-Carlos Castillo"]
 publication_types = ["2"]
 publication = "Bulletin of Latin American Research, 31(1) 1--18. https://doi.org/10.1111/j.1470-9856.2011.00605.x"
 publication_short = "Bulletin of Latin American Research, 31(1) 1--18. https://doi.org/10.1111/j.1470-9856.2011.00605.x"
