@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Publicaciones recientes
+title: Publicaciones y presentaciones recientes
 
 content:  # Page type to display. E.g. post, talk, publication...
   page_type: publication

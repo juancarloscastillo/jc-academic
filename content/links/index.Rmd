@@ -170,6 +170,7 @@ I use software compatible with the principles of open science, this is, free and
 
 **Reporting, workflows & communication**
 
+-[Writing a scientific article: A step-by-step guide for beginners](https://www.iium.edu.my/media/74156/B-5%20%20Writing%20a%20Scientific%20Article%20for%20Index%20Journal%20from%20IIUM%20Library..pdf)
 
 - [Business Reports with R Markdown](https://meetup-rmd-style-business-report.netlify.app/?panelset1=previous-css2#1)
 
