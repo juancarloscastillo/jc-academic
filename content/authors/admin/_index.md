@@ -65,9 +65,12 @@ email: "juancastillov@uchile.cl"
 highlight_name: true
 ---
 
+¡Bienvenid_ a mi sitio! Acá busco poner a disposición mi trabajo académico de investigación, docencia y extensión de la manera más abierta posible.
+
 Soy profesor asociado en el Departamento de Sociología de la Universidad de Chile desde 2019 e investigador principal del [Centro de Estudios de Conflicto y Cohesión social COES](https://coes.cl/) desde 2013. Antes fui profesor en el Instituto de Sociología de la Pontificia Universidad Católica de Chile (2014-2018) y coordinador del área de investigación del Centro de Medición MIDE UC (2010-2013).
 
 Mi docencia está enfocada en métodos cuantitativos, con especialización en ecuaciones estructurales y modelos multinivel.
 
+Y nací en Quilpué.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/short CV Juan Castillo EN.pdf" "newtab" >}}resumé{{< /staticref >}}.

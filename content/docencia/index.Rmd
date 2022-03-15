@@ -5,13 +5,18 @@ author: " "
 
 ## Universidad de Chile
 
-### 2021
+### 2022
 
 - [Estadística multivariada](https://multivariada.netlify.app/)
+
+### 2021
+
+- [Estadística multivariada](https://version2021--multivariada.netlify.app/)
 - [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio-2021/)
 - [Seminarios de grado / memorias / tesis](/post/seminarios/)
 - [Ciencia Social Abierta](https://cienciasocialabierta.netlify.com/)
--
+
+
 ### 2020
 
 - [Estadística multivariada](https://version2020--multivariada.netlify.app/)

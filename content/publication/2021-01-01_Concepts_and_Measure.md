@@ -8,7 +8,6 @@ publication_short = "3rd Akademie Für Soziologie (AS) Conference: Cohesive Soci
 abstract = "Aquí el abstract"
 abstract_short = ""
 url_source = "https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html"
-tags = ["legitimacy ideology Chile"]
 url_code = ""
 image_preview = ""
 selected = false
