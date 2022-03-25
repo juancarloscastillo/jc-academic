@@ -8,11 +8,14 @@ author: " "
 ### 2022
 
 - [Estadística multivariada](https://multivariada.netlify.app/)
+- [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio/)
+- [Seminarios de grado / memorias / tesis](/post/seminarios/)
+
 
 ### 2021
 
 - [Estadística multivariada](https://version2021--multivariada.netlify.app/)
-- [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio-2021/)
+- [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio/)
 - [Seminarios de grado / memorias / tesis](/post/seminarios/)
 - [Ciencia Social Abierta](https://cienciasocialabierta.netlify.com/)
 
