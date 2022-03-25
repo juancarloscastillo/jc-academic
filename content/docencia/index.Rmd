@@ -9,14 +9,14 @@ author: " "
 
 - [Estadística multivariada](https://multivariada.netlify.app/)
 - [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio/)
-- [Seminarios de grado / memorias / tesis](/post/seminarios/)
+- [Seminarios de grado / memorias / tesis](/post/desarrollo-tesis/)
 
 
 ### 2021
 
 - [Estadística multivariada](https://version2021--multivariada.netlify.app/)
 - [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio/)
-- [Seminarios de grado / memorias / tesis](/post/seminarios/)
+- [Seminarios de grado / memorias / tesis](/post/desarrollo-tesis/)
 - [Ciencia Social Abierta](https://cienciasocialabierta.netlify.com/)
 
 
@@ -24,7 +24,7 @@ author: " "
 
 - [Estadística multivariada](https://version2020--multivariada.netlify.app/)
 - [Ciencia Social Abierta](https://version2020--cienciasocialabierta.netlify.app/)
-- [Seminario de grado](/post/seminarios/)
+- [Seminario de grado](/post/desarrollo-tesis/)
 - [Coloquio investigación en desigualdad y ciudadanía](/post/coloquio2020/)
 - [Aspectos subjetivos desigualdad económica - Magister en Ciencias Sociales FACSO](documents/magister-facso-2020/magister_web.html)
 
