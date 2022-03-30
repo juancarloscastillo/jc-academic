@@ -25,4 +25,4 @@ highlight = true
 image = ""
 caption = ""
 +++
-[Github Repo](https://github.com/justicia-distributiva/redist_lapop)
+[Accepted version](/docs/franetovic-castillo2022Frontiers.pdf) <br> [Github Repo](https://github.com/justicia-distributiva/redist_lapop)
