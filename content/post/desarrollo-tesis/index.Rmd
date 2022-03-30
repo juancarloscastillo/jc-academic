@@ -15,7 +15,7 @@ La guía de seminarios/memorias/tesis es una actividad de acompañamiento semest
 
 ## Informes y fechas
 
-Se entregarán 2 informes durante el semestre, uno de avance y uno final. Por regla general el informe de avance se entrega hasta dos semanas después de la presentación, o si no se ha alcanzado a presentar a más tardar a fines de Mayo. El informe final se entrega la última semana lectiva del semestre, y debe incluir un párrafo de autoevaluación y una nota propuesta.
+Se entregarán 2 informes durante el semestre, uno de avance y uno final.
 
 - Seminario de grado:
 
@@ -60,9 +60,9 @@ Se entregarán 2 informes durante el semestre, uno de avance y uno final. Por re
 
 - También por temas de apertura se recomienda inscribir el proyecto en el [Open Science Framework](https://osf.io/)
 
-**Fechas entrega informes**
+### Fechas entrega informes
 
-A acordar cada semestre. En general, el informe de avance se entrega el informe 1 semana después de la presentación, y el final la última semana del semestre.
+Por regla general el **informe de avance** se entrega hasta **dos semanas después de la presentación**, o si no se ha alcanzado a presentar a más tardar a fines de Mayo. El **informe final** se entrega la última semana lectiva del semestre, y debe incluir un párrafo de autoevaluación y una nota propuesta.
 
 # Links
 
