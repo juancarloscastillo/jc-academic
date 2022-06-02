@@ -6,15 +6,15 @@ title: Juan C. Castillo
 superuser: true
 
 # Role/position/tagline
-role: Profesor Departamento de Sociología, Facultad de Ciencias Sociales
+role: Profesor Departamento de Sociología
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Universidad de Chile
-  url: https://www.stanford.edu/
+- name: Facultad de Ciencias Sociales - Universidad de Chile
+  url: https://facso.uchile.cl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Universidad de Chile <br>
-  Mis líneas de investigación son justicia distributiva, formación ciudadana, cohesión social y ciencia abierta
+  Líneas de investigación justicia distributiva, formación ciudadana, cohesión social y ciencia abierta
 
 # Interests to show in About widget
 interests:
@@ -71,6 +71,6 @@ Soy profesor asociado en el Departamento de Sociología de la Universidad de Chi
 
 Mi docencia está enfocada en métodos cuantitativos, con especialización en ecuaciones estructurales y modelos multinivel.
 
-Y nací en Quilpué.
+Estudié en la escuela 227 de Miraflores, Viña del Mar. Y nací en Quilpué, _Ciudad del Sol_ y de crímenes macabros.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/short CV Juan Castillo EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
