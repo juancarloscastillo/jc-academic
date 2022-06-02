@@ -34,8 +34,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-# Resumen
- 
+# Resumen 
+
 La hipótesis general de investigación es que el currículo escolar, junto a una serie de factores
 contextuales, poseen una influencia en la formación cívica y ciudadana. El contraste de esta
 hipótesis requiere por un lado un análisis de los contenidos curriculares, y por otro de factores
