@@ -5,7 +5,7 @@ summary: "Este proyecto (2022-2023) tiene por objetivo analizar el conocimiento,
 tags:
 - FONDAP
 - ANID
-date: "2023-03-31T00:00:00Z"
+date: "2022-03-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
