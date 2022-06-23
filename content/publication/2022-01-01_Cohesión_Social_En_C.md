@@ -26,4 +26,4 @@ highlight = true
 image = ""
 caption = ""
 +++
-[Github Repo](https://github.com/ocscoes/cohesion-cepal) [Bookdown](https://cohesion-cepal.netlify.app/) [Presentación](https://ocscoes.github.io/presentaciones/CEPAL2022cohesionELSOC.html]
+[Github Repo](https://github.com/ocscoes/cohesion-cepal) <br> [Bookdown](https://cohesion-cepal.netlify.app/) <br> [Presentación](https://jc-castillo.com/publication/2022-01-01_presentacion_cohesio/)
