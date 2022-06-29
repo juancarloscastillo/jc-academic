@@ -27,9 +27,8 @@ author: " "
 
 I use software compatible with the principles of open science, this is, free and open source.
 
-<img src="images/logos.png" style="width:90%" align="left">
+![](/images/logos.png)
 
-<br clear="all" />
 
 ---
 
@@ -137,8 +136,6 @@ I use software compatible with the principles of open science, this is, free and
 
 - [How to standardize variables in R](https://data-se.netlify.app/2021/02/26/how-to-standardize-variables-in-r/)
 
-
-
 **Visualization**
 
 - [5 CSS Animation libraries for every developer](https://animate.style/)
@@ -213,13 +210,15 @@ I use software compatible with the principles of open science, this is, free and
 - [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
 
 
-# Search information & literature reviews
+## Search information & literature reviews
+
+- Para partir, [Annual Reviews](https://www.annualreviews.org/) 
 
 - [https://elicit.org/](https://elicit.org/)
 
 - [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
 
 
-# Otros varios
+## Procrastinación
 
 ![https://www.circles.gallery/create](https://www.circles.gallery/create)
