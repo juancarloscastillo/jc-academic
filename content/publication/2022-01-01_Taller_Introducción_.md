@@ -25,4 +25,8 @@ highlight = true
 image = ""
 caption = ""
 +++
-## Video de la presentación <br> <iframe width="700"  height="450" src="https://www.youtube.com/embed/RsHmgi6gVH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Video de la presentación
+
+<br>
+
+<iframe width="700"  height="450" src="https://www.youtube.com/embed/RsHmgi6gVH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

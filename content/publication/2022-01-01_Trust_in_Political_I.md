@@ -25,4 +25,8 @@ highlight = true
 image = ""
 caption = ""
 +++
-![](https://assets.cambridge.org/97811087/45093/cover/9781108745093.jpg) [Github repo](https://github.com/juancarloscastillo/authorit-trust_iccs-lat) -  [Book Website](https://www.cambridge.org/core/books/psychology-of-democracy/87D5FCF7E4B87CE6E86A875E5ABBB416)
+![](https://assets.cambridge.org/97811087/45093/cover/9781108745093.jpg)
+
+[Github repo](https://github.com/juancarloscastillo/authorit-trust_iccs-lat) - 
+
+[Book Website](https://www.cambridge.org/core/books/psychology-of-democracy/87D5FCF7E4B87CE6E86A875E5ABBB416)

@@ -10,9 +10,9 @@ main:
   - name: Proyectos
     url: '#projects'
     weight: 20
-#  - name: Posts
-#    url: '#posts'
-#    weight: 30
+  - name: Blog
+    url: '#posts'
+    weight: 30
 #  - name: Presentaciones
 #    url: '#talks'
 #    weight: 40
@@ -20,20 +20,20 @@ main:
 #    url: '#featured'
 #    weight: 50
   - name: Publicaciones
-    url: publication/
-    weight: 30
+    url: '#publications'
+    weight: 40
   - name: Presentaciones
     url: presentaciones/
-    weight: 40
+    weight: 50
   - name: Tesis
     url: tesis/
-    weight: 50
+    weight: 60
   - name: Docencia
     url: docencia/
-    weight: 60
+    weight: 70
   - name: Links
     url: links/
-    weight: 70
+    weight: 80
   - name: Contacto
     url: contacto/
-    weight: 80
+    weight: 90

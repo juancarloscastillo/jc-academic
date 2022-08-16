@@ -26,4 +26,6 @@ highlight = true
 image = ""
 caption = ""
 +++
-![](/images/impuestos-justos.jpg) [Website](https://www.impuestosjustos.io/)
+![](/images/impuestos-justos.jpg)
+
+[Website](https://www.impuestosjustos.io/)

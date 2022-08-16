@@ -25,4 +25,20 @@ highlight = true
 image = ""
 caption = ""
 +++
-## Video de la presentación <br> <iframe width="700"  height="450" src="https://www.youtube.com/embed/CgfAkQ5RWxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> [Documento](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados) <br> [Github Repo](https://github.com/ocscoes/cohesion-cepal) <br> [Bookdown](https://cohesion-cepal.netlify.app/)
+## Video de la presentación
+
+<br>
+
+<iframe width="700"  height="450" src="https://www.youtube.com/embed/CgfAkQ5RWxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+[Documento](https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados)
+
+<br>
+
+[Github Repo](https://github.com/ocscoes/cohesion-cepal)
+
+<br>
+
+[Bookdown](https://cohesion-cepal.netlify.app/)
