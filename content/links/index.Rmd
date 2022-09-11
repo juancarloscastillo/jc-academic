@@ -49,6 +49,8 @@ I use software compatible with the principles of open science, this is, free and
 
 ### Open Science
 
+-[Writing clean code](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13961)
+
 - [A large-scale study on research code quality and execution](https://arxiv.org/abs/2103.12793)
 
 - [Create, Publish, and Analyze Personal Websites Using R and RStudio](https://r4sites-book.netlify.app/)
@@ -221,6 +223,8 @@ I use software compatible with the principles of open science, this is, free and
 - [https://elicit.org/](https://elicit.org/)
 
 - [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
+
+- [Martinovich (2022) Búsqueda Bibliográfica](http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/32/41/126-4)
 
 
 ## Procrastinación

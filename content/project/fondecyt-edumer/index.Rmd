@@ -38,9 +38,9 @@ Una de las características de Chile como caso de estudio a nivel internacional 
 
 # Documentos
 
+- [Formulación propuesta](Formulacion_REG_esp.pdf)
 
-
-# Equipo
+# Equipo 
 
 **Investigador principal** : Juan Carlos Castillo (Sociología - Universidad de Chile).
 
@@ -48,13 +48,13 @@ Una de las características de Chile como caso de estudio a nivel internacional 
 
 - Nicolás Angelcos (Sociología- Universidad de Chile)
 - Camila Moyano (Centro de Justicia Educacional, Universidad Católica)
--  Mauricio Salgado (Sociología - Universidad Andrés Bello).
+- Mauricio Salgado (Sociología - Universidad Andrés Bello).
 
 **Asistentes de investigación:**
-- Adolfo Maza
+
+- Samanta Alarcón
 - Francisco Molina
 - Kevin Carrasco
-
 
 **Periodo**: 2021-2024
 
