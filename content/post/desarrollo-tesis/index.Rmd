@@ -66,6 +66,8 @@ Por regla general el **informe de avance** se entrega hasta **dos semanas despu�
 
 # Links
 
+- [Research Gaps](/images/research_gaps.jpeg)
+
 - Taller escritura académica 2021, link [documento presentación](../../seminarios-talleres/escritura-academica/escritura-academica.html)
 
 - [Presentación tesisfacsodown](https://juancarloscastillo.github.io/tesisfacsodown/)

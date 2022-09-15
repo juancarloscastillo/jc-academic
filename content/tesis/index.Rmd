@@ -8,8 +8,6 @@ author: " "
 
 ### *Tesis guiadas*
 
-
-
 - Beck, G. (2019) Explorando la asociación entre redes de contacto ocupacionales y la justificación de la desigualdad social en Chile. Magíster en Sociología, P. Universidad Católica de Chile.
 
 - Yañez, R. (2019) Construcción de juicios de justicia y emergencia de sentimientos de injusticia frente a la desigualdad social. Doctorado en Sociología, EHESS Paris (codirector).
