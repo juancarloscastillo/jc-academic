@@ -20,7 +20,7 @@ bibtex_2academic <- function(bibfile,
     data
   }
 
-  mypubs <-fncols(mypubs, c("journal", "abstract", "annotation", "editor", "booktitle", "volume", "number", "pages", "address", "institution", "publisher", "doi", "isbn", "url"))
+  mypubs <-fncols(mypubs, c("journal", "abstract", "annotation", "editor", "booktitle", "volume", "number", "pages", "address", "institution", "publisher", "doi", "isbn", "url", "year", "month"))
 
   mypubs <- mypubs  %>%
       mutate(mainref = journal)
@@ -119,7 +119,7 @@ bibtex_2academic <- function(bibfile,
 
     # define a date and create filename by appending date and start of title
     if (!is.na(x[["year"]])) {
-      x[["date"]] <- paste0(x[["year"]], "-01-01")
+      x[["date"]] <- paste0(x[["year"]], x[["month"]])
     } else {
       x[["date"]] <- "2999-01-01"
     }
