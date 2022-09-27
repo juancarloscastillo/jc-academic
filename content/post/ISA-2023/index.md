@@ -36,7 +36,7 @@ tags:
 
 ---
 
-I am organizing two panels for ISA 2023, call for papers is open until December 2022 (link to apply below each abstract)
+I am organizing two panels for ISA 2023, call for papers is open until September 2022 (link to apply below each abstract)
 
 ---
 
