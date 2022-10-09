@@ -71,6 +71,6 @@ Soy profesor asociado en el Departamento de Sociología de la Universidad de Chi
 
 Mi docencia está enfocada en métodos cuantitativos, con especialización en ecuaciones estructurales y modelos multinivel.
 
-Estudié en la escuela 227 de Miraflores, Viña del Mar. Y nací en Quilpué, _Ciudad del Sol_ y de crímenes macabros.
+Estudié en la escuela 227 de Miraflores, Viña del Mar. Y nací en Quilpué, _Ciudad del Sol_ ... y de crímenes macabros.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/short CV Juan Castillo EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "docs/short CV Juan Castillo EN.pdf" "newtab" >}}CV{{< /staticref >}}.

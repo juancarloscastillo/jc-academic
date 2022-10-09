@@ -7,6 +7,9 @@ main:
 #  - name: Inicio
 #    url: '#about'
 #    weight: 10
+  - name: Publicaciones & Presentaciones
+    url: publication/
+    weight: 10
   - name: Proyectos
     url: '#projects'
     weight: 20
@@ -19,9 +22,6 @@ main:
 #  - name: Destacados
 #    url: '#featured'
 #    weight: 50
-  - name: Publicaciones
-    url: publication/
-    weight: 40
   - name: Presentaciones
     url: presentaciones/
     weight: 50
