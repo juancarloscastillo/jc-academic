@@ -115,15 +115,15 @@ I wasn't sure whether to make a different tab for each type of academic producti
   - in `id: pub_uncat` change translation from "Uncategorized" to "Presentation"
   - the details of the presentation (as place, etc) should be added to the "type" field in Zotero
 
-# Update 2: additional YAML options for nice buttons links
+## Update 2: additional YAML options for nice buttons links
 
-A nice capacity of the hugo academic publications template is the possibility to add different buttons that declare the availability of additional information, such as github repo, video, pdf, etc., as so far it appear with the "source document" button when adding a url in the Zotero record. This was tricky because these options are in the YAML section, and further customization options in this script go in the Extra field from Zotero. So, this is what I did:
+A nice capacity of the hugo academic publications template is the possibility to add different buttons that declare the availability of additional information, such as github repo, video, pdf, etc., as so far it appear with the "source document" button when adding a url in the Zotero record. This was tricky because these options are in the YAML section, and further customization options in this script go in the Extra field from Zotero. So, this is how it works:
 
-- divide the Extra field into a YAML section and additional information section, so it could be possible to use this same field for YAML options. For this to work you have to specify with "---" the end of the YAML field. Above the "---" you can specify YAML options, and below any additional information.
+- divide the Extra field into a YAML section and additional information section, so it could be possible to use this same field for YAML options. For this to work you have to specify with `---` in the Zotero Extra field. Above the `---` you can specify YAML options, and below any additional information.
 
-- disadvantage: well, you have to write "---" in every extra field, independently of including YAML info or not. This is not encouraging when you have plenty of records, but from my perspective it is worthwhile.
+- disadvantage: well, you have to write `---` in every extra field, independently of including YAML info or not. This is such a bore when you have many Zotero entries, but from my perspective it is worthwhile.
 
-- Hands on: copy and paste the following in the extra field:
+- copy and paste the following in the extra field:
 
 ```
 url_pdf : ""
@@ -141,7 +141,7 @@ url_poster: ""
 
 ```
 
-* note: if you do not need all the options you can just delete accordingly **EXCEPT FOR THE PDF at the beginning (url_pdf:"")**, otherwise the code crushes. So leave it although it is empty. Hope to solve it sometime with my limited programming abilities.
+* note: if you do not need all the options you can just delete accordingly **EXCEPT FOR THE PDF at the beginning (url_pdf:"")**, otherwise the code crushes. So leave it although you do not need it. Hope to solve it sometime with my limited programming abilities.
 
 
 If you want to add customized buttons just uncomment the lines from _links_ onwards, and you can copy and paste them below in case of any other customized icons, for instance for a pre-registration button with a nice OSF icon:
@@ -154,4 +154,4 @@ links:
   web: https://osf.io/muv9r/
 ```
 
-In case you want to use these options I created a different code, `bibtex_2academic_plus.R`, available [here](https://raw.githubusercontent.com/juancarloscastillo/starter-hugo-academic/master/content/publication/bibtex_2academic_plus.R). Enjoy!
+In case you want to use these options I created a different code, `bibtex_2academic_plus.R`, available [here](https://raw.githubusercontent.com/juancarloscastillo/jc-academic/master/content/publication/bibtex_2academic_plus.R). Enjoy!
