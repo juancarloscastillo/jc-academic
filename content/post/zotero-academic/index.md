@@ -141,10 +141,10 @@ url_poster: ""
 
 ```
 
-* note: if you do not need all the options you can just delete accordingly **EXCEPT FOR THE PDF at the beginning (url_pdf:"")**, otherwise the code crush. Hope to solve it sometime with my limited programming abilities.
-*
+* note: if you do not need all the options you can just delete accordingly **EXCEPT FOR THE PDF at the beginning (url_pdf:"")**, otherwise the code crushes. So leave it although it is empty. Hope to solve it sometime with my limited programming abilities.
 
-If you want to add customized buttons just uncomment the lines from links onwards, and you can copy and paste them below in case of any other customized incons, for instas for a pre-registration button with a nice OSF button:
+
+If you want to add customized buttons just uncomment the lines from _links_ onwards, and you can copy and paste them below in case of any other customized icons, for instance for a pre-registration button with a nice OSF icon:
 
 ```
 links:
