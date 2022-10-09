@@ -7,6 +7,5 @@ publication : "Law and Society in the 21st Century. Berlin, Humboldt University"
 publication_short : "Law and Society in the 21st Century. Berlin, Humboldt University"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

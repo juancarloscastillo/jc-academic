@@ -8,7 +8,6 @@ publication_short : "Comentario En Seminario: ¿Cuánto Cambiaron Las Percepcion
 abstract : "(Abstract not available)"
 abstract_short : ""
 url_source : "/presentations/cep-desigualdad-2022/cep-percdes-2022.html"
-tags : ["NA"]
 --- ## Documento de presentación
 
 (F para pantalla completa)

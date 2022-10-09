@@ -7,6 +7,5 @@ publication : ". Australia, Flinders University"
 publication_short : ". Australia, Flinders University"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["social justice research Chile legitimacy reward justice"]
 ---

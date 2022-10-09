@@ -8,5 +8,4 @@ publication_short : " In Sol Alé, Klaudio Duarte & Daniel Miranda: Saltar el To
 abstract : "(Abstract not available)"
 abstract_short : ""
 url_source : "/docs/torniquete-capitulo.pdf"
-tags : ["NA"]
 --- [Link to pdf](/docs/torniquete-capitulo.pdf) ![](/images/torniquete.png)

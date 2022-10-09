@@ -7,6 +7,5 @@ publication : "Annual Meeting of the American Educational Research Association â
 publication_short : "Annual Meeting of the American Educational Research Association â€“ AERA. Vancouver"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

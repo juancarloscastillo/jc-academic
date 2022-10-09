@@ -7,6 +7,4 @@ publication : "Working Paper (132). Berlin Humboldt University"
 publication_short : "Working Paper (132). Berlin Humboldt University"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
-tags : ["NA"]
 ---

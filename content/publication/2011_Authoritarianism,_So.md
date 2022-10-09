@@ -7,6 +7,5 @@ publication : "Annual Scientific Meeting of the International Society of Politic
 publication_short : "Annual Scientific Meeting of the International Society of Political Psychology – ISPP. Bilgi University, Istambul"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

@@ -7,6 +7,5 @@ publication : "31st Conference of the International Society of Political Psychol
 publication_short : "31st Conference of the International Society of Political Psychology - ISPP (Paris, 9-12 July).. Paris"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["social justice research Chile legitimacy reward justice"]
 ---

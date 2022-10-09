@@ -7,6 +7,5 @@ publication : ". Boston"
 publication_short : ". Boston"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

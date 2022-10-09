@@ -7,6 +7,5 @@ publication : "International Social Justice Project  Meeting . Haifa, Haifa Univ
 publication_short : "International Social Justice Project  Meeting . Haifa, Haifa University"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

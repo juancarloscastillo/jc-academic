@@ -8,5 +8,4 @@ publication_short : "Presentación En El Seminario: Ciencia Abierta, ¿es Cienci
 abstract : "(Abstract not available)"
 abstract_short : ""
 url_source : "https://lisa-coes.github.io/presentaciones/Ibero-MEX-Jun2022/iberomex2022.html"
-tags : ["NA"]
 --- [Github Repo](https://github.com/lisa-coes/presentaciones)

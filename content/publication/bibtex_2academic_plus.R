@@ -214,10 +214,8 @@ bibtex_2academic <- function(bibfile,
 
       # Source document from Zotero URL field
 
-      #if (!is.na(x[["url"]]))
-      write(paste0("url_source : \"", x[["url"]], "\""), fileConn, append = T)
-      #if (!is.na(x[["keywords"]]))
-      write(paste0("tags : [\"", x[["keywords"]], "\"]"), fileConn, append = T)
+      if (!is.na(x[["url"]])) write(paste0("url_source : \"", x[["url"]], "\""), fileConn, append = T)
+      if (!is.na(x[["keywords"]])) write(paste0("tags : [\"", x[["keywords"]], "\"]"), fileConn, append = T)
 
 
       # other possible fields are kept empty. They can be customized later by

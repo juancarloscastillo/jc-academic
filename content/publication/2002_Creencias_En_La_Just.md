@@ -7,6 +7,4 @@ publication : " In D. Paez: Psicología Social. Buenos Aires: Prentice Hall"
 publication_short : " In D. Paez: Psicología Social. Buenos Aires: Prentice Hall"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
-tags : ["NA"]
 ---

@@ -8,5 +8,4 @@ publication_short : "Seminario ELSOC Cambio Social En Chile . Santiago ( Online"
 abstract : "(Abstract not available)"
 abstract_short : ""
 url_source : "https://jciturras.github.io/dinamic-legit/slides/dinamic-legit_elsoc.html#1"
-tags : ["NA"]
 --- [ Github Repo](https://github.com/jciturras/dinamic-legit)

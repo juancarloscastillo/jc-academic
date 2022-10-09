@@ -7,6 +7,5 @@ publication : ". Santiago de Chile Universidad de Chile"
 publication_short : ". Santiago de Chile Universidad de Chile"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

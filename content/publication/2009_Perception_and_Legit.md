@@ -7,6 +7,5 @@ publication : "5th ECPR General Conference. Potsdam, Potsdam University"
 publication_short : "5th ECPR General Conference. Potsdam, Potsdam University"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

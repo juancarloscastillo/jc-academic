@@ -7,8 +7,6 @@ publication : "Institución (Ej: COES) . Lugar"
 publication_short : "Institución (Ej: COES) . Lugar"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
-tags : ["NA"]
 url_pdf : ""  
 url_project: "" 
 url_slides: "" 

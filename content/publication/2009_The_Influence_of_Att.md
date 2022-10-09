@@ -7,6 +7,5 @@ publication : ". Dublin Trinity College"
 publication_short : ". Dublin Trinity College"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

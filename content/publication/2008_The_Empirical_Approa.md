@@ -7,6 +7,5 @@ publication : "Seminar of the Regional Bureau for Latin America and the Caribbea
 publication_short : "Seminar of the Regional Bureau for Latin America and the Caribbean of United Nations Development Program (RBLAC-UNDP) . Mexico"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["Chile","legitimacy","social justice research"]
 ---

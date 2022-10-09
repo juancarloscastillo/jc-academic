@@ -7,6 +7,4 @@ publication : "Conference of the Latin American Studies Association - LASA. Toro
 publication_short : "Conference of the Latin American Studies Association - LASA. Toronto"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
-tags : ["NA"]
 ---

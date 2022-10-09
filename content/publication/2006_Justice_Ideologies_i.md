@@ -7,6 +7,5 @@ publication : "Poster Presented at the 11th Conference of the International Soci
 publication_short : "Poster Presented at the 11th Conference of the International Society for Justice Research. Berlin: Humboldt University"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

@@ -7,6 +7,5 @@ publication : "21st World Congress of Political Science – IPSA. Santiago de Ch
 publication_short : "21st World Congress of Political Science – IPSA. Santiago de Chile: Universidad de Chile"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---

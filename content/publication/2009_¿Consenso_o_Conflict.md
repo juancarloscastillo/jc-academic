@@ -7,6 +7,5 @@ publication : ". Lima, Universidad Católica"
 publication_short : ". Lima, Universidad Católica"
 abstract : "(Abstract not available)"
 abstract_short : ""
-url_source : "NA"
 tags : ["legitimacy ideology Chile"]
 ---
