@@ -218,13 +218,15 @@ I use software compatible with the principles of open science, this is, free and
 
 ## Search information & literature reviews
 
+-[Research Rabbit](https://www.researchrabbit.ai/)
+
 - [Literature review as a research methodology: An overview and guidelines](https://www.sciencedirect.com/science/article/pii/S0148296319304564?ref=pdf_download&fr=RR-2&rr=7247ec74c8a17523)
 
 - Para partir, [Annual Reviews](https://www.annualreviews.org/)
 
-- [https://elicit.org/](https://elicit.org/)
+- [Elicit](https://elicit.org/)
 
-- [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
+- [Connected Papers](https://www.connectedpapers.com/)
 
 - [Martinovich (2022) Búsqueda Bibliográfica](http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/32/41/126-4)
 

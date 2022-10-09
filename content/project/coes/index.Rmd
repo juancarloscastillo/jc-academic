@@ -15,10 +15,8 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: "https://s3.amazonaws.com/documentos.anid.cl/centros/fondap/esp/COES_Esp.pdf"
 url_slides: ""

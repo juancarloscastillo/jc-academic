@@ -20,7 +20,7 @@ main:
 #    url: '#featured'
 #    weight: 50
   - name: Publicaciones
-    url: '#publications'
+    url: publication/
     weight: 40
   - name: Presentaciones
     url: presentaciones/
