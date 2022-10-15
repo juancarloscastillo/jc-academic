@@ -10,7 +10,7 @@ Pendientes:
 
 
 pacman::p_load(RefManageR, dplyr, stringr, anytime, tidyr, stringi)
-mypubs   <- ReadBib("content/publication/academic-publications.bib", check = "warn", .Encoding = "UTF-8") %>%
+mypubs   <- ReadBib("content/publication/academic-presentations.bib", check = "warn", .Encoding = "UTF-8") %>%
   as.data.frame()
 
 # the "extra" Zotero field is in the "annotation" column
