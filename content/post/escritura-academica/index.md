@@ -1,5 +1,5 @@
 ---
-title: Escritura académica para trabajos de investigación empírica en ciencias sociales
+title: Estructura, contenidos y recomendaciones de escritura académica para trabajos de investigación empírica en ciencias sociales
 subtitle:
 # type: book # adds navigation bar, but less nice outline
 # Summary for listings and search engines
@@ -36,25 +36,31 @@ tags:
 
 ---
 
+Acá presento una propuesta de estructura y contenidos de escritura académica, con foco en estudios empíricos en ciencias sociales. La propuesta de estructura no es un manual, solo una sugerencia basada en mi experiencia personal. La mejor estructura siempre es aquella que permite contar mejor lo que uno quiere contar, y en el caso de artículos empíricos la propuesta de abajo se ajusta bastante a lo que se solicita y espera en revistas académicas, y creo que ayuda principalmente a la escritura de trabajos donde a veces no es muy claro qué es lo que se espera. En este caso recomiendo ceñirse en primer lugar a esta propuesta y luego flexibilizarla en caso de ser necesario.
+
+
+
 # Secciones del trabajo
 
 Típicamente, las secciones de un trabajo son:
 
 - Resumen/abstract
-- Introducción
-- Antecedentes conceptuales y empíricos
-- Metodología:
-  - datos
-  - variables
-  - métodos
-- Resultados
-  - descriptivos bivariados
-  - modelos
-- Discusión: vuelta a las hipótesis de investigación en relación a los resultados obtenidos
-- Conclusiones:
+- 1. Introducción
+- 2. Antecedentes conceptuales y empíricos
+- 3. Metodología:
+  - 3.1 Datos
+  - 3.2 Variables
+  - 3.3 Métodos
+- 4. Resultados
+  - 4.1 Descriptivos (bivariados)
+  - 4.2 Modelos
+- 5. Discusión: vuelta a las hipótesis de investigación en relación a los resultados obtenidos
+- 6. Conclusiones:
   - resumen de principales hallazgos
   - limitaciones
   - agenda futura
+
+----
 
 # Abstract (250-300 palabras):
 
@@ -65,7 +71,7 @@ Típicamente, las secciones de un trabajo son:
   - principales resultados
   - conclusión principal
 
-# Introducción:
+# 1. Introducción:
 
 - Presenta problema, pregunta, hipótesis / argumento central.
 
@@ -89,7 +95,7 @@ Típicamente, las secciones de un trabajo son:
 
 - Tip: pensar la introducción como un guión: http://blogs.lse.ac.uk/impactofsocialsciences/2018/05/21/writing-a-page-turner-how-to-tell-a-story-in-your-scientific-paper/
 
-# Antecedentes conceptuales y empíricos
+# 2. Antecedentes conceptuales y empíricos
 
 - En esta parte no se incluye ni relevancia ni contexto histórico, eso ya fue parte de la introducción. Desde aquí en adelante comienza la aproximación desde la investigación sistemática en el tema de estudio. Importante seguir el modelo del reloj de arena, y no volver a temas generales una vez que ya se va especificando el argumento central.
 
@@ -103,7 +109,7 @@ Típicamente, las secciones de un trabajo son:
 
 - De aquí hacia abajo **no deberían aparecer conceptos nuevos** (o sea, conejos sacados del sombrero). Todos los conceptos que aparecen en las hipótesis de investigación deberían estar definidos en esta sección, así como también desarrollado el argumento central que da pie a cada hipótesis.
 
-# Sobre objetivos e hipótesis
+**Sobre objetivos e hipótesis**
 
 - Existen distintas opciones, como por ejemplo hacer una sección aparte, incluirlas a medida que se presentan los argumentos, o ambas. Yo recomiendo incluirlas en los antecedentes posterior a los argumentos, y si las hipótesis están bien formuladas se pueden ahorrar los objetivos específicos. De todas maneras las hipótesis deberían ser numeradas, y también puede ayudar un diagrama que permita visualizar más fácilmente las hipótesis (ej: ver en [Franetovic & Castillo, 2022](https://www.frontiersin.org/files/Articles/806458/fsoc-07-806458-HTML/image_m/fsoc-07-806458-g001.jpg)).
 
@@ -112,13 +118,13 @@ Típicamente, las secciones de un trabajo son:
 - Las hipótesis son direccionales (ej: a medida que aumenta A, B ...)
 
 
-# Metodología (o Datos, variables y métodos)
+# 3. Metodología (o Datos, variables y métodos)
 
-## Datos
+## 3.1 Datos
 
 - Fuente, año N, muestreo, detalles técnicos relevantes.
 
-## Variables
+## 3.2 Variables
 
 - En esta sección se pasa del concepto a su operacionalización.
 
@@ -126,21 +132,22 @@ Típicamente, las secciones de un trabajo son:
 - Luego lo mismo para las variables independientes y variables de control.
 - Se recomienda una buena tabla de descriptivos univariados para finalizar esta sección, como la que otorga summarytools con dfSummary(), en R.
 
-## Métodos
+## 3.3 Métodos
 
 - Descripción de lo que se va a mostrar en la sección siguiente de análisis: secciones, caracterísiticas de los métodos empleados, sentido del orden de presentación, software/librerías utilizadas
 
-# Análisis
+# 4. Análisis
 
 - Se sugiere una primera sección de descriptivos bivariados (tablas, gráficos, correlaciones) que introduzcan al lector a una primera aproximación del contraste de hipótesis
 
 - La segunda sección usualmente es la presentación de modelos de estimación, en general tablas de regresión. En los modelos avanzar respondiendo aspectos parciales referidos a la pregunta de investigación (construyendo la "historia" del paper), y guiado por las hipótesis.
 
-# Discusión
+# 5. Discusión
 
 - Luego de la presentación de los resultados, acá se comienza a volver a los argumentos del trabajo y se relaciona cada hipótesis con los resultados. Se sugiere ir por orden, y un párrafo para cada hipótesis.
 
-# Conclusiones:
+# 6. Conclusiones
+
 - Resumir principales resultados (1 párrafo)
 - Volver desde los resultados hacia el planteamiento inicial de la pregunta (conversar con la introducción)
 - Aportes específicos y generales en el campo de estudios / disciplinar. lo importante es destacar el lugar de esta investigación en una agenda más general y cómo aporta.
@@ -152,11 +159,11 @@ Típicamente, las secciones de un trabajo son:
 
 # Recomendaciones generales:
 
-- La secuencia es en general de lo macro a lo micro, y de lo más general a lo más específico (imagen del reloj de arena).
+- La secuencia es en general de lo macro a lo micro, y de lo más general a lo más específico, para volver luego a lo más general en las conclusiones (imagen del reloj de arena).
 
 - Máxima de escritura: una idea por párrafo. Si comienza una idea nueva, comenzar otro párrafo. Al revés, si el párrafo siguiente habla de lo mismo, sumarlo al párrafo anterior.
 
-- La idea del párrafo se resume en la primera oración del párrafo, lo que en inglés se llama "topic sentence". Al revés, el párrafo no se puede referir a nada que no esté contenido en la primera oración.
+- La idea del párrafo se resume en la primera oración del párrafo, lo que en inglés se llama "topic sentence". El párrafo no se puede referir a nada que no esté contenido en la primera oración.
 
 - Para favorecer la continuidad de la lectura, incluir en la topic sentence algún concepto del párrafo anterior.
 
