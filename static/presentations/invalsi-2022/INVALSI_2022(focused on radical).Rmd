@@ -60,7 +60,7 @@ VII Seminar INVALSI Rome. Italy - October 28, 2022]
 .pull-right-wide[
 .right[
 .content-box-gray[
-## .red[Youth dispositions to participate in disruptive and pacific actions]
+## .red[Youth predispositions to participate in disruptive or radical actions]
 <br style="content:''; padding: 0,5px 0;" />
 ### .text_70[Gaps across countries and years]
 ]
@@ -127,7 +127,7 @@ Research projects from 2011 ]
 ---
 class: inverse animated slideInRight
 
-## .yellow[Youth dispositions to participate in disruptive and pacific actions
+## .yellow[Youth predispositions to participate in disruptive radical actions
 ]
 
 .pull-right[
@@ -143,7 +143,7 @@ class: inverse animated slideInRight
 ---
 class: inverse animated fadeOutLeft
 
-## .yellow[Youth dispositions to participate in disruptive and pacific actions
+## .yellow[Youth dispositions to participate in disruptive or radical actions
 ]
 
 .pull-right[
@@ -203,7 +203,7 @@ class: inverse animated fadeOutLeft
 ---
 class: inverse animated slideInRight fadeOutLeft
 
-## .yellow[Youth dispositions to participate in disruptive and pacific actions
+## .yellow[Youth predispositions to participate in disruptive or radical actions
 ]
 
 .pull-right[
@@ -218,7 +218,7 @@ class: inverse animated slideInRight fadeOutLeft
 ---
 # Objectives
 
-- To assess gaps regarding adolescents' willingness to participate in radical and pacific forms of political actions
+- To assess gaps regarding adolescents' willingness to participate in disruptive or radical forms of political actions
 
 - To compare differences between countries and over time.
 
@@ -229,7 +229,7 @@ class: inverse animated slideInRight fadeOutLeft
 ---
 class: inverse animated slideInRight fadeOutLeft
 
-## .yellow[Youth dispositions to participate in disruptive and pacific actions
+## .yellow[Youth predispositions to participate in disruptive or radical actions
 ]
 
 .pull-right[
@@ -265,7 +265,7 @@ _There are many different ways how citizens may express their opinions about imp
 
 ---
 .content-box-red[
-### Disposition to **disruptive**  actions*
+### Predisposition to **disruptive**  actions*
 - Spray-paint protest slogans on walls
 - Stage a protest by clocking traffic
 - Occupy public buldings as a sign of protest
@@ -298,7 +298,7 @@ _There are many different ways how citizens may express their opinions about imp
 ---
 class: inverse animated slideInRight fadeOutLeft
 
-## .yellow[Youth dispositions to participate in disruptive and pacific actions
+## .yellow[Youth predispositions to participate in disruptive or radical actions
 ]
 
 .pull-right[
@@ -386,7 +386,7 @@ knitr::include_graphics("files/results_iea/know_gini_radical99.png")
 ---
 class: inverse animated slideInRight fadeOutLeft
 
-## .yellow[Youth dispositions to participate in disruptive and pacific actions
+## .yellow[Youth predispositions to participate in disruptive or radical actions
 ]
 
 .pull-right[
@@ -411,7 +411,7 @@ class: inverse animated slideInRight fadeOutLeft
 ---
 ## Discussion: inequality
 
-- In more unequal contexts students tend to show higher disposition to participate in disruptive actions. This results appear mainly in 2016, less clear in 2009 and no in 1999.
+- In more unequal contexts students tend to show higher predisposition to participate in disruptive actions. This results appear mainly in 2016, less clear in 2009 and no in 1999 but country variation on that patterns
 
 - For the case of radical actions, unequal context seem to matter more in recent years.
 
@@ -426,7 +426,7 @@ But, education (vía transmission of civic knowledge) have the potential to dise
 
 - Resources matters in two ways: intergenerational transmission of civic skills.
 
-- Gender differences: girls tend to show lower dispositions than boys for radical actions but the differences seems to be shortened across time.
+- Gender differences: girls tend to show lower predispositions than boys for radical actions but the differences seems to be shortened across time.
 
 ---
 ## Next steps
@@ -477,7 +477,7 @@ VII Seminar INVALSI Rome. Italy - October 28, 2022]
 .pull-right-wide[
 .right[
 .content-box-gray[
-## .red[Youth dispositions to participate in disruptive and pacific actions]
+## .red[Youth predispositions to participate in disruptive or radical actions]
 <br style="content:''; padding: 0,5px 0;" />
 ### .text_70[Gaps across countries and years]
 ]
