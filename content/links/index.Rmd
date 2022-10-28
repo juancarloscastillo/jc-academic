@@ -205,7 +205,9 @@ I use software compatible with the principles of open science, this is, free and
 
 - [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
 
-## Search information & literature reviews
+## Search information, literature reviews & others
+
+- [Articles by Latin American Authors in Prestigious Journals Have Fewer Citations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003804)
 
 -[Research Rabbit](https://www.researchrabbit.ai/)
 
@@ -219,7 +221,9 @@ I use software compatible with the principles of open science, this is, free and
 
 - [Martinovich (2022) Búsqueda Bibliográfica](http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/32/41/126-4)
 
-## Teaching & meetings resources
+## Teaching & resources
+
+- [Statistics & R cartoons by Allison Horst](https://allisonhorst.com/)
 
 - [Flinga board](https://flinga.fi/)
 

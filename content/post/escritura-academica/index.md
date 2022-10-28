@@ -1,5 +1,5 @@
 ---
-title: Estructura, contenidos y recomendaciones de escritura académica para trabajos de investigación empírica en ciencias sociales
+title: Escritura académica - Estructura, contenidos y recomendaciones para trabajos de investigación empírica en ciencias sociales
 subtitle:
 # type: book # adds navigation bar, but less nice outline
 # Summary for listings and search engines
@@ -36,7 +36,9 @@ tags:
 
 ---
 
-Acá presento una propuesta de estructura y contenidos de escritura académica, con foco en estudios empíricos en ciencias sociales. La propuesta de estructura no es un manual, solo una sugerencia basada en mi experiencia personal. La mejor estructura siempre es aquella que permite contar mejor lo que uno quiere contar, y en el caso de artículos empíricos la propuesta de abajo se ajusta bastante a lo que se solicita y espera en revistas académicas, y creo que ayuda principalmente a la escritura de trabajos donde a veces no es muy claro qué es lo que se espera. En este caso recomiendo ceñirse en primer lugar a esta propuesta y luego flexibilizarla en caso de ser necesario.
+Acá presento una propuesta de estructura y contenidos de escritura académica, con foco en estudios empíricos en ciencias sociales. La propuesta de estructura no es un manual, solo una sugerencia basada en mi experiencia personal y en recomendaciones de otros investigadores.
+
+La mejor estructura siempre es aquella que permite contar mejor lo que uno quiere contar, y en el caso de artículos empíricos la propuesta de abajo se ajusta bastante a lo que se solicita y espera en revistas académicas, y creo que ayuda principalmente a la escritura de trabajos donde a veces no es muy claro qué es lo que se espera. En este caso recomiendo ceñirse en primer lugar a esta propuesta y luego flexibilizarla en caso de ser necesario.
 
 
 
@@ -97,7 +99,11 @@ Típicamente, las secciones de un trabajo son:
 
 # 2. Antecedentes conceptuales y empíricos
 
-- En esta parte no se incluye ni relevancia ni contexto histórico, eso ya fue parte de la introducción. Desde aquí en adelante comienza la aproximación desde la investigación sistemática en el tema de estudio. Importante seguir el modelo del reloj de arena, y no volver a temas generales una vez que ya se va especificando el argumento central.
+- Objetivo de esta sección: fundamentar las hipótesis en base a literatura especializada. Si no se relaciona con lo que aparece en las hipótesis, entonces no debe estar acá.
+
+- En esta parte no se incluye ni relevancia ni contexto histórico, eso ya fue parte de la introducción. Desde aquí en adelante comienza la revisión de la investigación sistemática en el tema de estudio. Importante seguir el modelo del reloj de arena, y no volver a temas generales una vez que ya se va especificando el argumento central.
+
+- Cada antecedente debe estar fundamentado en base a referencias, no dejar ideas sueltas que sean relevantes como un antecedente sin citas (Ej: El nivel educacional es uno de los principales factores que afecta la participación política). Si una idea así queda sin citas, entonces es una opinión del autor/a, y **esta sección no es de opiniones**, es de antecedentes.
 
 - En general se divide en dos sub-secciones: la primera relacionada con el objeto central de estudio, y las siguientes con los factores asociados que dan lugar a los argumentos centrales y a las hipótesis. No es necesario entonces mantener el título "antecedentes conceptuales y empíricos", podría ser por ejemplo que el título sea el objeto central de estudio ("Desigualdad económica"), el siguiente el concepto utilizado en el argumento central ("Preferencias distributivas") y otro para los argumentos secundarios ("Factores asociados a la desigualdad económica").
 
@@ -159,11 +165,11 @@ Típicamente, las secciones de un trabajo son:
 
 # Recomendaciones generales:
 
-- La secuencia es en general de lo macro a lo micro, y de lo más general a lo más específico, para volver luego a lo más general en las conclusiones (imagen del reloj de arena).
+- La secuencia es en general de lo **macro a lo micro**, y de lo más general a lo más específico, para volver luego a lo más general en las conclusiones (imagen del reloj de arena).
 
-- Máxima de escritura: una idea por párrafo. Si comienza una idea nueva, comenzar otro párrafo. Al revés, si el párrafo siguiente habla de lo mismo, sumarlo al párrafo anterior.
+- Máxima de escritura: **una idea por párrafo**. Si comienza una idea nueva, comenzar otro párrafo. Al revés, si el párrafo siguiente habla de lo mismo, sumarlo al párrafo anterior.
 
-- La idea del párrafo se resume en la primera oración del párrafo, lo que en inglés se llama "topic sentence". El párrafo no se puede referir a nada que no esté contenido en la primera oración.
+- La idea del párrafo se resume en la primera oración del párrafo, lo que en inglés se llama **"topic sentence"**. El párrafo no se puede referir a nada que no esté contenido en la primera oración. Sugerencia para construcción de párrafos: Al principio de cada párrafo anotar entre paréntesis cuadrado qué es lo que se quiere decir con el párrafo.
 
 - Para favorecer la continuidad de la lectura, incluir en la topic sentence algún concepto del párrafo anterior.
 
@@ -175,8 +181,12 @@ Típicamente, las secciones de un trabajo son:
 
 - Relevancia: hablar de la relevancia en el marco de una agenda de investigación donde se posiciona esta investigación. Relevancia no es decir que "es interesante" o "nunca antes se ha hecho". Al respecto, revisar:  Sandberg, J., & Alvesson, M. (2011). Ways of constructing research questions: gap-spotting or problematization? Organization, 18(1), 23–44. https://doi.org/10.1177/1350508410372151. Y también el libro de los mismos autores "Constructing research questions"
 
--  Declarar Domicilio disciplinar: ej,mencionar la palabra "sociología" en el primer/segundo párrafo, esto fuerza que la investigación se enmarque en la disciplina.
+-  Declarar **domicilio disciplinar**: ej,mencionar la palabra "sociología" en el primer/segundo párrafo, esto fuerza que la investigación se enmarque en la disciplina.
 
 - Usar algún software de gestión de referencias bibliográficas (Ej. Zotero)
 
 - Tablas con el mínimo de líneas, y solo horizontales. Y si una tabla se puede reemplazar por un gráfico, siempre es mejor un gráfico.
+
+- No usar "etc.", si hay que decir algo, hay que decirlo completo
+
+- Mantener estructura anidada de numeración (3.1, 3.2)
