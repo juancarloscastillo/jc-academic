@@ -10,6 +10,9 @@ main:
   - name: Publicaciones & Presentaciones
     url: publication/
     weight: 10
+  - name: Docencia
+    url: docencia/
+    weight: 15
   - name: Proyectos
     url: '#projects'
     weight: 20
@@ -22,15 +25,12 @@ main:
 #  - name: Destacados
 #    url: '#featured'
 #    weight: 50
-  - name: Presentaciones
-    url: presentaciones/
-    weight: 50
+#  - name: Presentaciones
+#    url: presentaciones/
+#    weight: 50
   - name: Tesis
     url: tesis/
     weight: 60
-  - name: Docencia
-    url: docencia/
-    weight: 70
   - name: Links
     url: links/
     weight: 80

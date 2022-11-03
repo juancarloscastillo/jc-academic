@@ -9,15 +9,15 @@ abstract : "La comunidad COES, es decir, investigadores/as, académicos/as, estu
 abstract_short : ""
 url_source : "https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html"
 url_pdf: "" 
-url_dataset:  ""
-url_project: ""
-url_slides: "https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html"
-url_video: ""
-url_poster: ""
-links:
-- icon: github
-  icon_pack: fab
-  name: Github
+url_dataset:  "" 
+url_project: "" 
+url_slides: "https://lisa-coes.github.io/presentaciones/workshopelsoc-septiembre2022/workshopelsoc-sept2022.html" 
+url_video: "" 
+url_poster: "" 
+links: 
+- icon: github 
+  icon_pack: fab 
+  name: Github 
   url: https://github.com/lisa-coes/presentaciones/tree/main/workshopelsoc-septiembre2022
 
 ---
