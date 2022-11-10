@@ -49,6 +49,8 @@ I use software compatible with the principles of open science, this is, free and
 
 ### Open Science
 
+-[13 OPEN PUBLISHING TOOLS](https://www.annaclemens.com/blog/open-science-publishing-access-tools?utm_content=buffer366b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 -[Writing clean code](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13961)
 
 - [A large-scale study on research code quality and execution](https://arxiv.org/abs/2103.12793)
@@ -89,6 +91,14 @@ I use software compatible with the principles of open science, this is, free and
 ### Data analysis
 
 **Data preparation & modeling**
+
+- [questionr: R package to make surveys processing easier](https://juba.github.io/questionr/articles/recoding_addins.html)
+
+- [esquisse: R Dashboard](https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html)
+
+- [package editData : An RStudio Addin for Editing A ‘data.frame’](https://cran.r-project.org/web/packages/editData/readme/README.html)
+
+-[Measurement invariance in the social sciences](https://www.sciencedirect.com/science/article/abs/pii/S0049089X22001168?dgcid=coauthor)
 
 - [Introduction to Multilevel Modelling](https://www.learn-mlms.com/)
 
@@ -206,6 +216,8 @@ I use software compatible with the principles of open science, this is, free and
 - [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
 
 ## Search information, literature reviews & others
+
+- [How to write an introduction](https://www.ehu.eus/ccwintco/uploads/e/ef/How_to_write_a_good_introduction.pdf)
 
 - [Articles by Latin American Authors in Prestigious Journals Have Fewer Citations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003804)
 

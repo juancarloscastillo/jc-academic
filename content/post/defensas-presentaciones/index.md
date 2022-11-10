@@ -80,3 +80,7 @@ tags:
 - Y recordar algo que es evidente: es una defensa, se tienen que creer el argumento central y la aproximación metodológica mostrando seguridad, en lugar de decir "me salió esto ..." y pedir disculpas.
 
 - Y a pesar de que igual es una instancia de exposición y evaluación que en general no suele ser cómoda para nadie, traten de pasarlo bien y aprovechar el momento. La actitud de "ojalá salir de esto lo más rápido posible" se nota y no es buena para nadie. Pocas veces se defiende un trabajo, y es el momento de lucirse.
+
+## Links
+ 
+- ![](/images/20thesis-defense-questions.png)
