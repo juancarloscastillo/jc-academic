@@ -9,11 +9,7 @@ abstract : "The measurement of social cohesion has been a challenge for decades.
 abstract_short : ""
 url_source : "https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html"
 --- # Documento de presentación
-
 (F para pantalla completa) <iframe width="700"  height="450" src="https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html" title="Xaringan presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # Extended abstract
-
 <iframe width="700"  height="450" src="https://www.dropbox.com/s/sn0efav12iqfb31/castillo%2C%20caceres%20%26%20carrasco%202021%20concepts%20and%20measurement%20social%20cohesion.pdf?raw=1" title="Extended abstract" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Conference web](https://cohesivesocieties.net/)

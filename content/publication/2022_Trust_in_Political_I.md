@@ -9,7 +9,5 @@ abstract : "Trust in political institutions represents a central component of de
 abstract_short : ""
 url_source : "https://github.com/juancarloscastillo/authorit-trust_iccs-lat/blob/master/psych-of-dem-trust-auth-chapterproofs.pdf"
 --- ![](https://assets.cambridge.org/97811087/45093/cover/9781108745093.jpg)
-
 [Github repo](https://github.com/juancarloscastillo/authorit-trust_iccs-lat) - 
-
 [Book Website](https://www.cambridge.org/core/books/psychology-of-democracy/87D5FCF7E4B87CE6E86A875E5ABBB416)

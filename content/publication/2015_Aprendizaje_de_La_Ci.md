@@ -10,5 +10,4 @@ abstract_short : ""
 url_source : "https://ediciones.uc.cl/aprendizaje-de-la-ciudadania-contextos-experiencias-y-resultados.html"
 tags : ["citizenship education","ICCS"]
 --- Proyecto Fondecyt Formación Ciudadana I
-
 ![https://ediciones.uc.cl/aprendizaje-de-la-ciudadania-contextos-experiencias-y-resultados.html](https://ediciones.uc.cl/media/catalog/product/cache/0762110bdab9bcd70faa57f20c280fd0/a/p/aprendizaje_de_la_ciudadania_1_1.png)

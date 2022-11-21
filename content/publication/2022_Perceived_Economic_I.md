@@ -1,5 +1,5 @@
 ---
-title : "Perceived Economic Ineuquality Measures: Their Reflection on Objective Inequalities and Their Effects on Support for Redistribution"
+title : "Perceived Economic Inequality Measures: Their Reflection on Objective Inequalities and Their Effects on Support for Redistribution"
 date : "2022-10-01"
 authors : ["Juan Diego Garcia-Castro", "Efrain Garcia-Sanchez", "Guillermo B. Willis", "Juan-Carlos Castillo", "Rosa Rodriguez-Bailon"]
 publication_types : ["2"]
@@ -19,5 +19,4 @@ links:
   icon_pack: ai 
   name: Pre-registration 
   url: https://osf.io/muv9r/
-
 ---

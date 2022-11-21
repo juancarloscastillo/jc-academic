@@ -10,11 +10,7 @@ abstract_short : ""
 url_source : "https://www.cepal.org/es/publicaciones/47735-cohesion-social-chile-tiempos-cambio-indicadores-perfiles-factores-asociados"
 tags : ["elsoc","social cohesion"]
 --- [Github Repo](https://github.com/ocscoes/cohesion-cepal)
-
 <br>
-
 [Bookdown](https://cohesion-cepal.netlify.app/)
-
 <br>
-
 [Presentación](https://jc-castillo.com/publication/2022-01-01_presentacion_cohesio/)

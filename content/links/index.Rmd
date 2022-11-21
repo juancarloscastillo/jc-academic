@@ -143,6 +143,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Visualization**
 
+- [Creating beautiful tables in R with {gt}](https://gt.albert-rapp.de/)
+
 - [5 CSS Animation libraries for every developer](https://animate.style/)
 
 - [Guess the correlation](http://guessthecorrelation.com/)
@@ -216,6 +218,10 @@ I use software compatible with the principles of open science, this is, free and
 - [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
 
 ## Search information, literature reviews & others
+
+- [litmaps](https://www.litmaps.com/)
+
+- [Open knowledge Maps](https://openknowledgemaps.org/)
 
 - [How to write an introduction](https://www.ehu.eus/ccwintco/uploads/e/ef/How_to_write_a_good_introduction.pdf)
 
