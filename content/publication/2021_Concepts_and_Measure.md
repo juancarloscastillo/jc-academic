@@ -3,8 +3,8 @@ title : "Concepts and Measurement of Social Cohesion in International Perspectiv
 date : "2021-09-01"
 authors : ["Juan-Carlos Castillo", "Kevin Carrasco", "Ignacio Caceres"]
 publication_types : ["8"]
-publication : "3rd Akademie Für Soziologie (AS) Conference: Cohesive Societies? Analytical-Empirical Perspectives . Leipzig (Online)"
-publication_short : "3rd Akademie Für Soziologie (AS) Conference: Cohesive Societies? Analytical-Empirical Perspectives . Leipzig (Online)"
+publication : " 3rd Akademie Für Soziologie (AS) Conference: Cohesive Societies? Analytical-Empirical Perspectives . Leipzig (Online)"
+publication_short : " 3rd Akademie Für Soziologie (AS) Conference: Cohesive Societies? Analytical-Empirical Perspectives . Leipzig (Online)"
 abstract : "The measurement of social cohesion has been a challenge for decades. A main issue behind this challenge is the definition of social cohesion, which is far from being consensual and has led to different proposals for operationalization and measurement. Nevertheless, to our knowledge the approaches to the measurement of social cohesion have not been contrasted with each other in a systematic way, making the assessment and comparison of social cohesion indicators and indexes a difficult task. In the present paper we describe and compare several international projects aimed at conceptualizing and measuring social cohesion, such as the Social Cohesion Radar (Germany/international), the Scanlon-Monash Social Cohesion Index (Australia), ECOSOCIAL (Latin America), Mapping Social Cohesion (Canada) and the Civic Engagement and Social Cohesion report (USA). Through this comparison we identify the main commonalities as well as the disparities among these different projects. Based on this analysis we propose a simplified version for measuring social cohesion at aggregated level."
 abstract_short : ""
 url_source : "https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html"

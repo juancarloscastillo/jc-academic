@@ -42,29 +42,10 @@ links:
   icon_pack: fab
   name: Github
   web: https://github.com/juancarloscastillo/estrategias-ic
-- icon: github
-  icon_pack: fas
-  name: chalkboard-user
-  web: https://estrategias-ic.netlify.app/programacion/
-
-
-
-
-
-
 ---
 
-# Ciencia Social Abierta
+Al finalizar el curso los/as estudiantes conocerán distintas estrategias de investigación cuantitativa partir de las cuales serán capaces de identificar y construir problemas y objetos de investigación factibles de ser abordados a través de cuestionarios.
 
-Partiendo desde la concepción de Ciencia Abierta (Open Science) y de investigación reproducible, este curso presenta formas alternativas a la manera tradicional de concebir la generación de conocimiento de manera cerrada y competitiva, y desde ahí se proponen y ejercitan una serie de herramientas técnicas en el análisis de datos que facilitan la reproducibilidad, colaboración y comunicación de procesos de investigación.
+Se espera que los estudiantes conozcan, a partir de la revisión de ejemplos actuales y de reconocida calidad científica, distintas experiencias de investigación cuantitativa; conozcan, diseñen y validen cuestionarios y escalas en el marco de la investigación social; conozcan, construyan y validen índices de medición de diferentes constructos sociales; apliquen los conocimientos adquiridos en los cursos de estadística descriptiva e inferencial; articulen y fundamenten las decisiones adoptadas para abordar y analizar un problema de investigación a través de técnicas cuantitativas; integren en la definición de problemas y de decisiones metodológicas fundamentos teóricos de carácter sociológico.
 
-El curso permitirá a los participantes lograr un producto de investigación (artículo, documento de trabajo) con foco en el análisis de datos realizado de manera abierta y reproducible.
-
-----
-
-Cada versión del curso tiene una página web desde su primera versión en el año 2020. Las versiones se encuentran alojadas en Github, se desarrollan principalmente con Blogdown/Hugo y el deploy se realiza en Netlify.
-
-Versiones:
-
-- [2021](https://cienciasocialabierta.netlify.app/)
-- [2020](https://version2020--cienciasocialabierta.netlify.app/)
+Complementariamente, se espera que los estudiantes adquieran herramientas que les permitan comunicar diseños y resultados de investigación en contextos sociales, profesionales y académicos.

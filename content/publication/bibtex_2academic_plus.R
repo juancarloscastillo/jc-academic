@@ -25,7 +25,9 @@ bibtex_2academic <- function(bibfile,
   mypubs <- mypubs  %>%
       mutate(mainref = journal)
 
-  mypubs$mainref <- mypubs$mainref %>% replace_na('') #otherwise it appears "NA" in post
+  mypubs$mainref <- as.character(mypubs$mainref)
+
+  mypubs$mainref <- mypubs$mainref %>% replace_na(' ') #otherwise it appears "NA" in post
 
  mypubs$bibtype <-str_replace_all(mypubs$bibtype, c("Misc" = "Presentation"))
 

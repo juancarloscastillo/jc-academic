@@ -3,8 +3,8 @@ title : "Legitimation and Justice Ideologies in Contexts of Extreme Economic Ine
 date : "2007-01-01"
 authors : ["JC Castillo"]
 publication_types : ["1"]
-publication : "4-7 July, 2007. Portland"
-publication_short : "4-7 July, 2007. Portland"
+publication : " 4-7 July, 2007. Portland"
+publication_short : " 4-7 July, 2007. Portland"
 abstract : "(Abstract not available)"
 abstract_short : ""
 tags : ["legitimacy ideology Chile"]
