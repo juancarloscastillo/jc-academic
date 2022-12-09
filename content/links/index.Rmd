@@ -49,6 +49,8 @@ I use software compatible with the principles of open science, this is, free and
 
 ### Open Science
 
+- [Teaching Reproducibility 2022, special issue of the Journal of Statistics and Data Science Education](https://www.tandfonline.com/toc/ujse20/current)
+
 -[13 OPEN PUBLISHING TOOLS](https://www.annaclemens.com/blog/open-science-publishing-access-tools?utm_content=buffer366b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 -[Writing clean code](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13961)
@@ -217,7 +219,7 @@ I use software compatible with the principles of open science, this is, free and
 
 - [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
 
-## Search information, literature reviews & others
+## Search information, literature reviews, publication & others
 
 - [litmaps](https://www.litmaps.com/)
 
@@ -227,7 +229,7 @@ I use software compatible with the principles of open science, this is, free and
 
 - [Articles by Latin American Authors in Prestigious Journals Have Fewer Citations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003804)
 
--[Research Rabbit](https://www.researchrabbit.ai/)
+- [Research Rabbit](https://www.researchrabbit.ai/)
 
 - [Literature review as a research methodology: An overview and guidelines](https://www.sciencedirect.com/science/article/pii/S0148296319304564?ref=pdf_download&fr=RR-2&rr=7247ec74c8a17523)
 
@@ -238,6 +240,8 @@ I use software compatible with the principles of open science, this is, free and
 - [Connected Papers](https://www.connectedpapers.com/)
 
 - [Martinovich (2022) Búsqueda Bibliográfica](http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/32/41/126-4)
+
+- [Nobel and novice: Author prominence affects peer review](https://www.pnas.org/doi/full/10.1073/pnas.2205779119)
 
 ## Teaching & resources
 
