@@ -1,6 +1,7 @@
 ---
 title : "Social Cohesion and Attitudinal Changes towards Migration: A Longitudinal Perspective amid the COVID-19 Pandemic"
 date : "2023-01-01"
+publishdate: "2022-01-01"
 authors : ["Juan-Carlos Castillo", "Macarena Bonhomme", "Daniel Miranda", "Julio Iturra"]
 publication_types : ["2"]
 publication : "Aceptado en  Frontiers"
