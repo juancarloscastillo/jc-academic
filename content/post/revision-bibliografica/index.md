@@ -1,15 +1,15 @@
 ---
-title: here the title
+title: Flujo de revisión bilbiográfica con Zotero y Research Rabbit
 subtitle:
 # type: book # adds navigation bar, but less nice outline
 # Summary for listings and search engines
-summary: This post explains how to automatically extract publications stored in Zotero (or in any reference manager exportable to Bibtex) and publish them as a publication record in hugo-academic using blogdown/R
+summary:
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-05-25"  #year-
+date: "2022-11-22"  #year-
 
 # Date updated
 # lastmod: "2021-12-13"
@@ -36,4 +36,4 @@ tags:
 
 ---
 
-# Start writing, and change the draft option to false
+# Intro (AUN COMO DRAFT; CAMBIAR EN YAML)

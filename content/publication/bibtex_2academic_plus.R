@@ -20,7 +20,7 @@ bibtex_2academic <- function(bibfile,
     data
   }
 
-  mypubs <-fncols(mypubs, c("journal", "abstract", "annotation", "editor", "booktitle", "volume", "number", "pages", "address", "institution", "publisher", "doi", "isbn", "url", "year", "month"))
+  mypubs <-fncols(mypubs, c("journal", "abstract", "annotation", "editor", "booktitle", "volume", "number", "pages", "address", "institution", "publisher", "doi", "isbn", "url", "year", "month", "school"))
 
   mypubs <- mypubs  %>%
       mutate(mainref = journal)
@@ -34,6 +34,12 @@ bibtex_2academic <- function(bibfile,
 # str_replace_all(mypubs$bibtype, c("PhdThesis" = "Thesis"))
 
   mypubs$abstract <- mypubs$abstract %>% replace_na('(Abstract not available)') #otherwise it appears "NA" in post
+
+# relplace NAs in month
+  mypubs$month <- as.character(mypubs$month)
+
+  mypubs$month <- mypubs$month %>% replace_na("jan") #otherwise it appears "NA" in post
+
 #  mypubs$annotation <- mypubs$annotation %>% replace_na('image_preview = ""') #otherwise
   # Customize Zotero extra field (here "annotation") in order to leave there the additional information for the md file
 
@@ -106,8 +112,6 @@ bibtex_2academic <- function(bibfile,
       x = mypubs$keywords
     )
 
-    # relplace NAs in month
-    mypubs$month <- mypubs$month %>% replace_na('01')
 
     #add line breaks for the different entries
     # mypubs$annotation<-cat(stri_wrap(mypubs$annotation, whitespace_only = TRUE))
@@ -190,6 +194,8 @@ bibtex_2academic <- function(bibfile,
                                                        "(", x[["number"]], ")")
       if (!is.na(x[["pages"]])) publication <- paste0(publication,
                                                       " ", x[["pages"]], " ")
+      if (!is.na(x[["school"]])) publication <- paste0(publication,
+                                                       "- ", x[["school"]])
       if (!is.na(x[["address"]])) publication <- paste0(publication,
                                                         ". ", x[["address"]], "")
       if (!is.na(x[["institution"]])) publication <- paste0(publication,
@@ -276,3 +282,13 @@ bibtex_2academic(bibfile  = my_bibfile,
                  outfold   = out_fold,
                  abstract  = TRUE,
                  overwrite = TRUE)
+
+
+ # and this is for including my theses, which actually are in another page (tesis), but I let the script here in order to run it just once for the sake of simplicity
+
+my_bibfile <- "content/tesis/tesis.bib"
+out_fold   <- "content/tesis"
+bibtex_2academic(bibfile  = my_bibfile,
+                  outfold   = out_fold,
+                  abstract  = TRUE,
+                  overwrite = TRUE)

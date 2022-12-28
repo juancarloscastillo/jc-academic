@@ -94,6 +94,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Data preparation & modeling**
 
+- [RTutor - Talk to your data via AI](http://rtutor.ai/)
+
 - [questionr: R package to make surveys processing easier](https://juba.github.io/questionr/articles/recoding_addins.html)
 
 - [esquisse: R Dashboard](https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html)

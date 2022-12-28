@@ -2,7 +2,7 @@
 title: "Guía de memorias y tesis"
 author: " "
 # Date published
-date: "2019-03-01" 
+date: "2019-03-01"
 ---
 
 La guía de seminarios de grado/memorias/tesis es una actividad de acompañamiento semestral que incluye:
@@ -11,33 +11,31 @@ La guía de seminarios de grado/memorias/tesis es una actividad de acompañamien
 
 - entrega de dos informes semestrales (ver abajo detalle)
 
-- reuniones de evaluación y asesoría (al menos dos al semestre, anotarse en [página de contacto](/contacto/))
+- reuniones de evaluación y asesoría (al menos cuatro al semestre, anotarse en [página de contacto](/contacto/))
 
 <br>
 
 ## Informes y fechas
 
-Se entregarán 2 informes durante el semestre, uno de avance y uno final.
+Se entregarán 2 informes durante el semestre, uno de avance y uno final. Cada informe debe ir acompañado de un párrafo de autoevaluación y de una nota.
 
 - Seminario de grado:
 
   - informe de avance: contempla la definición del problema de investigación, objeto de estudio, pregunta de investigación, revisión inicial de literatura, propuesta de sección metodológica disponibilidad de datos. (app. 1000 palabras).
 
-  - informe final: debe incorporar los comentarios al informe de avance y avanzar en la propuesta metodológica incluyendo análisis preliminares univariados.
+  - informe final: debe incorporar los comentarios al informe de avance y avanzar en la propuesta metodológica incluyendo análisis preliminares univariados. (app 3000 palabras)
 
 - Seminario de título 1
 
-  - informe de avance: ajuste de antecedentes conceptuales y finalización de sección metodológica.
+  - informe de avance: ajuste de antecedentes conceptuales y finalización de sección metodológica. (app 5000 palabras)
 
-  - informe final: incorporación de comentarios y avance de análisis bivariados
+  - informe final: incorporación de comentarios y avance de análisis bivariados (app. 8000 palabras)
 
 - Seminario de título 2
 
   - informe de avance: finalización de análisis y contraste de hipótesis, borrador de conclusión
 
-  - informe final: incorporación de comentarios y finalización de conclusiones.
-
-
+  - informe final: incorporación de comentarios y finalización de conclusiones. (app 10000 palabras)
 
 
 <br>
@@ -48,7 +46,7 @@ Se entregarán 2 informes durante el semestre, uno de avance y uno final.
 
 - la entrega de informes puede ser en pdf o html. Se recomienda usar [tesisfacsodown](https://juancarloscastillo.github.io/tesisfacsodown/) (video taller [aquí](https://www.dropbox.com/s/u3g2x74nj31jsu1/zoom_0.mp4?raw=1)), que permite ambas salidas. Documento de presentación [aquí](documents/talleres-cursos/tesisfacsodown/tesisfacsodown.html)
 
-- los comentarios se realizarán mediante [hypotes.is](https://hypothes.is/)
+- los comentarios se realizarán mediante [hypotes.is](https://hypothes.is/) en el caso de informes en html, o se enviarán comentarios por Slack
 
 - Después de la entrega de cada informe, anotarse en los [horarios de reunión con estudiantes](/contacto) para recibir retroalimentación
 
@@ -87,5 +85,3 @@ Por regla general el **informe de avance** se entrega hasta **dos semanas despu�
 - [Formulación de una investigación cuantitativa (documento de presentación)](https://estrategias-ic.netlify.app/docpres/02_formu/02_formu.html#1).
 
 - [Hernández et al El Planteamiento Cuantitativo del Problema](https://estrategias-ic.netlify.app/readings/cap3Hernandezetal2014.pdf)
-
-- [Manterola & Otzen (2013) Porqué Investigar y Cómo Conducir una Investigación](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-95022013000400056)
