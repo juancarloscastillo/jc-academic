@@ -3,7 +3,6 @@ title: "Links"
 author: " "
 ---
 
-
 ### Newspapers articles, comments & opinions
 
 - [CIPER 2019 La demanda por igualdad y los caminos que cuentan con amplio respaldo ciudadano](https://www.ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/)
@@ -92,7 +91,13 @@ I use software compatible with the principles of open science, this is, free and
 
 ### Data analysis
 
+**Teaching resources**
+
+- [Teaching Methods Resources portal- Sage](https://teaching-methods.sagepub.com/)
+
 **Data preparation & modeling**
+
+-[Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 
 - [RTutor - Talk to your data via AI](http://rtutor.ai/)
 
@@ -187,6 +192,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Reporting, workflows & communication**
 
+- [Building reproducible analytical pipelines with R](https://raps-with-r.dev/)
+
 - [Fallibility in Science: Responding to Errors in the Work of Oneself and Others](https://journals.sagepub.com/doi/10.1177/2515245918776632)
 
 -[Writing a scientific article: A step-by-step guide for beginners](https://www.iium.edu.my/media/74156/B-5%20%20Writing%20a%20Scientific%20Article%20for%20Index%20Journal%20from%20IIUM%20Library..pdf)
@@ -222,6 +229,8 @@ I use software compatible with the principles of open science, this is, free and
 - [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
 
 ## Search information, literature reviews, publication & others
+
+- [jenni.ai, writing](https://jenni.ai/)
 
 - [litmaps](https://www.litmaps.com/)
 

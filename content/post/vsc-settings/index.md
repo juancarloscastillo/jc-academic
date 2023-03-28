@@ -36,13 +36,18 @@ tags:
 
 ---
 
-* Git/Github
+# Git/Github
 - install Git
 - extension GitHub Pull Requests and Issues 
 - accounts (person icon in bar), github (if selected, unselect and select)
-- github credentials and done
+- github credentials
+- in terminal initialize git: 
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+- commit & push, done
 
-* Appearance
+
+# Appearance
 
 - sidebar: right 
 - move explorer to the right settings-> workbench>appearance>right 
