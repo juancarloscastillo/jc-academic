@@ -192,6 +192,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Reporting, workflows & communication**
 
+- [dataReporter: R package for documenting and creating reports on data cleanliness](https://github.com/ekstroem/dataReporter) 
+
 - [Building reproducible analytical pipelines with R](https://raps-with-r.dev/)
 
 - [Fallibility in Science: Responding to Errors in the Work of Oneself and Others](https://journals.sagepub.com/doi/10.1177/2515245918776632)

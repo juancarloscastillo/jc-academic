@@ -36,6 +36,20 @@ tags:
 
 ---
 
+-[WebChatGTP: Chrome extension that can give real references. To get references to journal articles, add "/site:scholar.google.com" before your question. ](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn)
+
+-[COGNOSYS: Agente que genera tareas en base a una pregunta, y comienza a ejecutarlas](https://www.cognosys.ai/)
+
+-[Research Radar](https://research-radar.com/)
+
+- [Wiseone: An AI-powered browser extension that offers a new way of reading & exploring information](https://wiseone.io/)
+
+- [Scispace - para leer y analizar papers](https://typeset.io/)
+
+- [Sourcely -  look up articles based on a whole paragraph or your notes](https://www.sourcely.net/)
+
+- [Trinka.ai - Editing & journal suggestions for publishing](https://www.trinka.ai/)
+
 - [Paperpal](https://paperpal.com/): Academic writing suggestions and editing (de pago)
 
 - [Zotero + Scite.ai integration](): Zotero add-on, dice cuantas veces un artículo ha sido citado/refutado (de pago)
