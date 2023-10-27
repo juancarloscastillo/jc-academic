@@ -1,5 +1,5 @@
 ---
-title : "Taller Introducción a La Ciencia Abierta: Pre-Registros y Pre-Prints"
+title : "Taller Introducción a la Ciencia Abierta: Pre-registros y Pre-prints"
 date : "2022-01-01"
 authors : ["Juan-Carlos Castillo", "Julio Iturra"]
 publication_types : ["8"]

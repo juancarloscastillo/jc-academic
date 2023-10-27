@@ -1,6 +1,6 @@
 ---
-title: Métodos Multinivel
-subtitle: Curso optativo Sociología - Universidad de Chile. También realizado anteriormente como optativo en el Magister de Sociología de la P. Universidad Católica (2014-2018)
+title: Modelos Multinivel
+subtitle: Curso optativo Sociología - Universidad de Chile. También realizado anteriormente como optativo en el Magíster de Sociología de la P. Universidad Católica (2014-2018)
 # type: book # adds navigation bar, but less nice outline
 # Summary for listings and search engines
 summary: Este curso es un optativo de la línea metodológica de la carrera de sociología de la Universidad de Chile y se ofrece a estudiantes entre 3er y 5to año de la carrera.
@@ -9,7 +9,7 @@ summary: Este curso es un optativo de la línea metodológica de la carrera de s
 projects: []
 
 # Date published
-date: "2019-03-01"  #year-
+date: "2023-08-01"  #year-
 
 # Date updated
 # lastmod: "2021-12-13"
@@ -34,6 +34,18 @@ authors:
 tags:
 # - Academic
 
+links:
+- icon: external-link
+  icon_pack: fab
+  name: Website
+  url: https://multinivel-facso.netlify.app
+
+- icon: github
+  icon_pack: fab
+  name: Github
+  url: https://github.com/cursos-metodos-facso/multinivel-facso
+
+
 ---
 
 # Métodos Multinivel
@@ -44,4 +56,4 @@ El curso tiene una orientación práctica y aplicada a problemas de investigaci�
 
 ----
 
-Link a página web del curso versión 2019 [aquí](https://multinivel.netlify.app/)
+Link a página del curso versión 2019 [aquí](https://multinivel.netlify.app/)

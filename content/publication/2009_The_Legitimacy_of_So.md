@@ -1,5 +1,5 @@
 ---
-title : "The Legitimacy of Social Inequality in Comparative Perspective: Do People and Countries Differ in Their Poverty Attributions?"
+title : "The Legitimacy of Social Inequality in Comparative Perspective: Do People and Countries Differ in their Poverty Attributions?"
 date : "2009-01-01"
 authors : ["S. Schneider", "J. Castillo"]
 publication_types : ["4"]

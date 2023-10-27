@@ -1,10 +1,10 @@
 ---
-title : "Determinantes de La Percepción de Seguridad Frente al Delito En La Región Metropolitana"
+title : "Determinantes de La Percepción de Seguridad Frente al Delito En La {{Región Metropolitana}}"
 date : "2022-01-01"
 authors : ["Javiera Urrutia"]
 publication_types : ["3"]
-publication : " Licenciatura En Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile"
-publication_short : " Licenciatura En Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile"
+publication : " Licenciatura En {{Sociología}} - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. {Santiago de Chile}"
+publication_short : " Licenciatura En {{Sociología}} - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. {Santiago de Chile}"
 abstract : "(Abstract not available)"
 abstract_short : ""
 tags : ["Guía o cotutor"]

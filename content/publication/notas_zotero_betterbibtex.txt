@@ -1,0 +1,4 @@
+# notas
+
+- en el export, deseleccionar lo del "export unicode ...", de otra manera todos los caracteres especiales (tildes, etc) se pasan a formato plano
+

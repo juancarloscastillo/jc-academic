@@ -84,3 +84,5 @@ tags:
 ## Links
  
 - ![](/images/20thesis-defense-questions.png)
+
+- ![How to tell a compelling story in scientific presentations](https://www.nature.com/articles/d41586-021-03603-2?s=03)

@@ -1,10 +1,10 @@
 ---
-title : "Desigualdad y Ciudadanía: Una Aproximación Intergeneracional"
+title : "Desigualdad y Ciudadanía: {{Una}} Aproximación Intergeneracional"
 date : "2018-04-01"
 authors : ["Daniel Miranda"]
 publication_types : ["3"]
-publication : " Magister En Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile"
-publication_short : " Magister En Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile"
+publication : " Magister En {{Sociología}} - Pontificia Universidad Católica de Chile. {Santiago de Chile}"
+publication_short : " Magister En {{Sociología}} - Pontificia Universidad Católica de Chile. {Santiago de Chile}"
 abstract : "A partir de la literatura especializada, existe bastante consenso respecto de que la principal fuente de socialización de aquellos aspectos referidos a la ciudadanía es la familia (Abendschön, 2013; Hess & Torney-Purta, 2005; Hyman, 1969; Langton, 1965; Niemi & Sobieszek, 1977; S Verba, Schlozman, & Burns, 2005; Wasburn & Covert, 2017). Es en el entorno familiar donde se transmiten de una generación a otra las disposiciones y comportamientos relevantes para el ejercicio de la ciudadanía, así como también traduciendo las ventajas o desventajas socioeconómicas en desigualdad de las expresiones de ciudadanía hacia la siguiente generación. Esta situación implica que durante el proceso de socialización se produciría un fenómeno que ha sido denominado"
 abstract_short : ""
 tags : ["Guía o cotutor"]

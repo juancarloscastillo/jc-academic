@@ -1,5 +1,5 @@
 ---
-title : "Presentación Cohesión Social En Chile En Tiempos de Cambio: Indicadores, Perfiles y Factores Asociados"
+title : "Presentación Cohesión social en Chile en tiempos de cambio: Indicadores, perfiles y factores asociados"
 date : "2022-03-01"
 authors : ["Juan-Carlos Castillo"]
 publication_types : ["8"]

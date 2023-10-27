@@ -1,7 +1,7 @@
 ---
 title : "Legitimation and Justice Ideologies in Contexts of Extreme Economic Inequalities."
 date : "2007-01-01"
-authors : ["JC Castillo"]
+authors : ["\relax JC Castillo"]
 publication_types : ["1"]
 publication : " 4-7 July, 2007. Portland"
 publication_short : " 4-7 July, 2007. Portland"

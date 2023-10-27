@@ -1,10 +1,10 @@
 ---
-title : "Explorando La Asociación Entre Redes de Contacto Ocupacionales y La Justificación de La Desigualdad Social En Chile"
+title : "Explorando La Asociación Entre Redes de Contacto Ocupacionales y La Justificación de La Desigualdad Social En {{Chile}}"
 date : "2019-01-01"
 authors : ["Guillermo Beck"]
 publication_types : ["3"]
-publication : " Magister En Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile"
-publication_short : " Magister En Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile"
+publication : " Magister En {{Sociología}} - Pontificia Universidad Católica de Chile. {Santiago de Chile}"
+publication_short : " Magister En {{Sociología}} - Pontificia Universidad Católica de Chile. {Santiago de Chile}"
 abstract : "La distribución y asignación de recursos y derechos sociales de manera justa ha sido un problema de interés para diferentes ramas de las ciencias sociales, donde la filosofía ha colaborado en el desarrollo de debate teórico en la materia, mientras que ramas con foco más empírico han aportado en la comprensión del impacto a nivel social que existe en torno a la distribución de diferentes recursos y derechos, y que se ha conceptualizado como justicia distributiva ..."
 abstract_short : ""
 tags : ["Guía o cotutor"]

@@ -39,12 +39,12 @@ links:
 - icon: github
   icon_pack: fab
   name: Github
-  web: https://github.com/juancarloscastillo/cienciasocialabierta
+  url: https://github.com/juancarloscastillo/cienciasocialabierta
 
 - icon: external-link
   icon_pack: fab
   name: Website
-  web: https://github.com/juancarloscastillo/cienciasocialabierta
+  url: https://github.com/juancarloscastillo/cienciasocialabierta
 
 
 ---

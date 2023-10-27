@@ -1,10 +1,10 @@
 ---
-title : "Inégalité Subjective Au Chili. Représentation Des Différences Sociales (in)Justes à Travers Le Temps"
+title : "Inégalité Subjective Au {{Chili}}. {{Représentation}} Des Différences Sociales (in)Justes à Travers Le Temps"
 date : "2019-01-01"
 authors : ["Rodrigo Yanez"]
 publication_types : ["3"]
-publication : " Doctorado En Sociología - EHESS. Paris"
-publication_short : " Doctorado En Sociología - EHESS. Paris"
+publication : " Doctorado En {{Sociología}} - EHESS. {Paris}"
+publication_short : " Doctorado En {{Sociología}} - EHESS. {Paris}"
 abstract : "This thesis examines subjective inequality in Chile over time. With the return of democracy (1990), the country experienced a sustained economic growth which allowed it to reduce poverty levels and increase education rates. At the same time, together with the development of a series of social policies, since 2000 the economic concentration of the country, historically ranked among the highest in the world, has begun to diminish..."
 abstract_short : ""
 tags : ["Guía o cotutor"]

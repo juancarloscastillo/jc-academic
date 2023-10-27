@@ -3,8 +3,8 @@ title : "Ellos Contra Nosotros: Las Percepciones Del Conflicto Social"
 date : "2023-01-01"
 authors : ["Andreas Lafferte"]
 publication_types : ["3"]
-publication : " Licenciatura En Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile"
-publication_short : " Licenciatura En Sociología - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. Santiago de Chile"
+publication : " Licenciatura En {{Sociología}} - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. {Santiago de Chile}"
+publication_short : " Licenciatura En {{Sociología}} - Departamento de Sociología, Facultad de Ciencias Sociales, Universidad de Chile. {Santiago de Chile}"
 abstract : "El aumento de la desigualdad económica y la concentración de la riqueza se han asociado en gran medida al resurgimiento de diferentes formas de conflicto social alrededor del mundo."
 abstract_short : ""
 tags : ["Guía o cotutor"]
@@ -13,7 +13,7 @@ url_dataset:  ""
 url_project: "" 
 url_slides: "" 
 url_video: "" 
-url_poster: ""
+url_poster: "" 
 links: 
 - icon: graduation-cap 
   icon_pack: fa 

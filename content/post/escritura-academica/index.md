@@ -190,3 +190,41 @@ Típicamente, las secciones de un trabajo son:
 - No usar "etc.", si hay que decir algo, hay que decirlo completo
 
 - Mantener estructura anidada de numeración (3.1, 3.2)
+
+# Recursos escritura, búsqueda información y publicación:
+
+- [Cómo escribir un artículo científico por primera vez](https://www.sciencedirect.com/science/article/abs/pii/S1134593417300040)
+
+- [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
+- [Publicación de artículos académicos: buenas prácticas y recomendaciones para la redacción y envío a revistas científicas](https://repositori.upf.edu/handle/10230/44599)
+
+- [Good tips for academic writing from Kevin Lafferty](http://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
+
+- [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
+
+- [How to write an introduction](https://www.ehu.eus/ccwintco/uploads/e/ef/How_to_write_a_good_introduction.pdf)
+
+- [Articles by Latin American Authors in Prestigious Journals Have Fewer Citations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003804)
+
+- [Literature review as a research methodology: An overview and guidelines](https://www.sciencedirect.com/science/article/pii/S0148296319304564?ref=pdf_download&fr=RR-2&rr=7247ec74c8a17523)
+
+- [Research Rabbit](https://www.researchrabbit.ai/)
+
+- [jenni.ai, writing](https://jenni.ai/)
+
+- [litmaps](https://www.litmaps.com/)
+
+- [Open knowledge Maps](https://openknowledgemaps.org/)
+
+- Para partir, [Annual Reviews](https://www.annualreviews.org/)
+
+- [Elicit](https://elicit.org/)
+
+- [Connected Papers](https://www.connectedpapers.com/)
+
+- [Martinovich (2022) Búsqueda Bibliográfica](http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/32/41/126-4)
+
+- [Nobel and novice: Author prominence affects peer review](https://www.pnas.org/doi/full/10.1073/pnas.2205779119)
+
+- [Perceptions of scientific research literature and strategies for reading papers depend on academic career stage](https://doi.org/10.1371/journal.pone.0189753)

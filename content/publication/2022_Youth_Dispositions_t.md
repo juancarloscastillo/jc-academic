@@ -10,7 +10,7 @@ abstract_short : ""
 url_pdf : ""  
 url_project: "" 
 url_slides: "/presentations/invalsi-2022/INVALSI_2022-focused-on-radical-.html" 
-url_video: "" 
+url_video: "https://www.youtube.com/watch?v=8kpOp__ZyVU" 
 url_poster: "" # 
 links: #
 - icon: github #
@@ -20,6 +20,8 @@ links: #
 ---
 ![](/images/invalsi.jpg)
 En la conferencia, junto a Daniel Miranda y Diego Carrasco
+## Video de la presentación
+<iframe width="700" height="450" src="https://www.youtube.com/watch?v=8kpOp__ZyVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Documento de presentación
 (F para pantalla completa)
-<iframe width="700"  height="450" src="/presentations/invalsi-2022/INVALSI_2022-focused-on-radical-.html" title="Xaringan presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700"  height="450" src="https://formacionciudadana.github.io/presentations/coes-invalsi-2022/INVALSI_2022-focusedonradical.html#1" title="Xaringan presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

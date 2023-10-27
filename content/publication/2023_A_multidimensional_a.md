@@ -1,0 +1,10 @@
+---
+title : "A multidimensional approach for measuring meritocratic beliefs: advantages, limitations and alternatives to the ISSP social inequality survey"
+date : "2023-10-01"
+authors : ["Juan-Carlos Castillo", "Julio Iturra", "Luis Maldonado", "Jorge Atria", "Francisco Meneses"]
+publication_types : ["2"]
+publication : "International Journal of Sociology, Accepted for publication"
+publication_short : "International Journal of Sociology, Accepted for publication"
+abstract : "A great part of the comparative international research that has attempted to measure meritocratic beliefs has used the social inequality module of the ISSP (International Social Survey Programme), which offers an unprecedented opportunity to compare meritocratic views in different societies. Based on a series of studies using ISSP data, the present paper proposes a multidimensional measurement framework for meritocratic beliefs. This framework dis- tinguishes, on the one side, between perceptions and preferences and, on the other side, between meritocratic and not meritocratic aspects. In the first study, we test the multidimensional framework for meritocratic beliefs using the ISSP 2009 inequality module through confirmatory factor analysis (CFA) techniques. After identify- ing the advantages and some limitations of ISSP items for a multidi- mensional operationalization of meritocratic beliefs, in a second study, we suggest a modified set of items that better taps the differ- ent dimensions of meritocracy. We examined the measuring proper- ties of this new instrument using a sample of Chilean adults (N ¼ 2,141). Based on these results, we recommend improvements in measuring meritocratic beliefs in cross-national studies."
+abstract_short : ""
+---

@@ -95,7 +95,9 @@ I use software compatible with the principles of open science, this is, free and
 
 - [Teaching Methods Resources portal- Sage](https://teaching-methods.sagepub.com/)
 
-**Data preparation & modeling**
+**Data wrangling, inference & modeling**
+
+- [Introduction to Modern Statistics (1st Ed)](https://openintro-ims.netlify.app/)
 
 -[Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 
@@ -120,7 +122,6 @@ I use software compatible with the principles of open science, this is, free and
 - [Autocorrelation Screening: A Potentially Efficient Method for Detecting Repetitive Response Patterns in Questionnaire Data](https://scholarworks.umass.edu/pare/vol27/iss1/2/)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Estimating a Parameter from a Random Sample <a href="https://t.co/H2KxnLzDyH">pic.twitter.com/H2KxnLzDyH</a></p>&mdash; Chelsea Parlett-Pelleriti (@ChelseaParlett) <a href="https://twitter.com/ChelseaParlett/status/1338662205894508545?ref_src=twsrc%5Etfw">December 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 - [Why should I use the here package when I'm already using projects?](https://malco.io/2018/11/05/why-should-i-use-the-here-package-when-i-m-already-using-projects/)
 
@@ -192,6 +193,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Reporting, workflows & communication**
 
+- [Telling Stories with Data - Online Book](https://tellingstorieswithdata.com)
+
 - [dataReporter: R package for documenting and creating reports on data cleanliness](https://github.com/ekstroem/dataReporter) 
 
 - [Building reproducible analytical pipelines with R](https://raps-with-r.dev/)
@@ -212,8 +215,6 @@ I use software compatible with the principles of open science, this is, free and
 
 - [XaringanExtra](https://pkg.garrickadenbuie.com/xaringanExtra/)
 
-- [Publicación de artículos académicos: buenas prácticas y recomendaciones para la redacción y envío a revistas científicas](https://repositori.upf.edu/handle/10230/44599)
-
 - [Flipbooks in Xaringan](https://evamaerey.github.io/little_flipbooks_library/about/what_the_flipbook)
 
 - [Pimp my RMD](https://holtzy.github.io/Pimp-my-rmd/)
@@ -226,35 +227,10 @@ I use software compatible with the principles of open science, this is, free and
 
 - [Emily Zabor's tutorial to build rmarkown websites](http://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
 
-- [Good tips for academic writing from Kevin Lafferty](http://trophiccascades.forestry.oregonstate.edu/sites/trophic/files/Lafferty_WritingScientificPaper.pdf)
 
-- [Guidelines for quantitative submissions ASR](http://journals.sagepub.com/doi/abs/10.1177/0003122418806282)
+## Writing, literature reviews, publication & others
 
-## Search information, literature reviews, publication & others
-
-- [jenni.ai, writing](https://jenni.ai/)
-
-- [litmaps](https://www.litmaps.com/)
-
-- [Open knowledge Maps](https://openknowledgemaps.org/)
-
-- [How to write an introduction](https://www.ehu.eus/ccwintco/uploads/e/ef/How_to_write_a_good_introduction.pdf)
-
-- [Articles by Latin American Authors in Prestigious Journals Have Fewer Citations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003804)
-
-- [Research Rabbit](https://www.researchrabbit.ai/)
-
-- [Literature review as a research methodology: An overview and guidelines](https://www.sciencedirect.com/science/article/pii/S0148296319304564?ref=pdf_download&fr=RR-2&rr=7247ec74c8a17523)
-
-- Para partir, [Annual Reviews](https://www.annualreviews.org/)
-
-- [Elicit](https://elicit.org/)
-
-- [Connected Papers](https://www.connectedpapers.com/)
-
-- [Martinovich (2022) Búsqueda Bibliográfica](http://isco.unla.edu.ar/edunla/cuadernos/catalog/view/32/41/126-4)
-
-- [Nobel and novice: Author prominence affects peer review](https://www.pnas.org/doi/full/10.1073/pnas.2205779119)
+- ver ahora en: [https://jc-castillo.com/post/escritura-academica/](https://jc-castillo.com/post/escritura-academica/)
 
 ## Teaching & resources
 
@@ -263,6 +239,8 @@ I use software compatible with the principles of open science, this is, free and
 - [Flinga board](https://flinga.fi/)
 
 - [Menti](https://www.menti.com/)
+
+- [Quarto for Academics](https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/)
 
 
 ### Following people

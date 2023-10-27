@@ -1,10 +1,10 @@
 ---
-title : "Estatus Social Subjetivo y Percepción de Meritocracia: El Caso de Chile"
+title : "Estatus Social Subjetivo y {{Percepción}} de Meritocracia: {{El}} Caso de {{Chile}}"
 date : "2018-01-01"
 authors : ["Julio Iturra"]
 publication_types : ["3"]
-publication : " Magister En Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile"
-publication_short : " Magister En Sociología - Pontificia Universidad Católica de Chile. Santiago de Chile"
+publication : " Magister En {{Sociología}} - Pontificia Universidad Católica de Chile. {Santiago de Chile}"
+publication_short : " Magister En {{Sociología}} - Pontificia Universidad Católica de Chile. {Santiago de Chile}"
 abstract : "La meritocracia constituye uno de los ideales más representativos de las sociedades mo- dernas de occidente. El mérito, entendido como la combinación de esfuerzos y talentos individuales, constituye el fundamento de una sociedad basada en los principios merito- cráticos. La legitimidad de desigualdad social ..."
 abstract_short : ""
 tags : ["Guía o cotutor"]
