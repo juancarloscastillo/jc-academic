@@ -67,9 +67,9 @@ highlight_name: true
 
 ¡Bienvenid_ a mi sitio! Acá busco poner a disposición mi trabajo académico de investigación, docencia y extensión de la manera más abierta posible.
 
-Soy profesor asociado en el Departamento de Sociología de la Universidad de Chile desde 2019 e investigador principal del [Centro de Estudios de Conflicto y Cohesión social COES](https://coes.cl/) desde 2013. Antes fui profesor en el Instituto de Sociología de la Pontificia Universidad Católica de Chile (2014-2018) y coordinador del área de investigación del Centro de Medición MIDE UC (2010-2013).
+Soy profesor asociado en el **Departamento de Sociología de la Universidad de Chile** desde 2019, investigador principal del [Centro de Estudios de Conflicto y Cohesión social COES](https://coes.cl/) desde 2013, e investigador principal del [Núcleo Milenio de Desigualdades y Oportunidades Digitales NUDOS](). Antes fui profesor en el Instituto de Sociología de la Pontificia Universidad Católica de Chile (2014-2018) y coordinador del área de investigación del Centro de Medición MIDE UC (2010-2013).
 
-Mi docencia está enfocada en métodos cuantitativos, con especialización en ecuaciones estructurales y modelos multinivel.
+Mi docencia está enfocada en métodos cuantitativos, con especialización en ecuaciones estructurales y modelos multinivel. En mis cursos promuevo herramientas de ciencia abierta.
 
 Estudié en la escuela 227 de Miraflores, Viña del Mar. Y nací en [Quilpué, _Ciudad del Sol_ ... y de crímenes macabros](https://www.google.com/search?q=cr%C3%ADmenes+en+quilpu%C3%A9).
 
