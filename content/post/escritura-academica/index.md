@@ -165,7 +165,10 @@ Típicamente, las secciones de un trabajo son:
 
 # Recomendaciones generales:
 
-- La secuencia es en general de lo **macro a lo micro**, y de lo más general a lo más específico, para volver luego a lo más general en las conclusiones (imagen del reloj de arena).
+- La secuencia es en general de lo **macro a lo micro**, y de lo más general a lo más específico, para volver luego a lo más general en las conclusiones (tipo reloj de arena).
+
+
+![](sandclock.png)
 
 - Máxima de escritura: **una idea por párrafo**. Si comienza una idea nueva, comenzar otro párrafo. Al revés, si el párrafo siguiente habla de lo mismo, sumarlo al párrafo anterior.
 

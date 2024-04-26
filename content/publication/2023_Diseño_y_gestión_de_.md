@@ -18,7 +18,6 @@ links:
   name: Github 
   url: https://github.com/lisa-coes/presentaciones 
 ---
-![](https://lisa-coes.github.io/presentaciones/tallerPrereg-PreprintEnero2022/logo-congreso.png)
 ## Documento de presentación
 (F para pantalla completa)
 <iframe width="700"  height="450" src="https://lisa-coes.github.io/presentaciones/flujo-UCEN-Ene2023/UCEN-Ene2023.html#1" title="Xaringan presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

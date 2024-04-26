@@ -251,7 +251,7 @@ bibtex_2academic <- function(bibfile,
 #      write("image = \"\"", fileConn, append = T)
 #      write("caption = \"\"", fileConn, append = T)
 
-#      write("+++", fileConn, append = T)
+#      write("---", fileConn, append = T)
 
 
       # Any other relevant information from Zotero: write in the "Extra" field

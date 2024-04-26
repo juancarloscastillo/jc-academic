@@ -3,7 +3,9 @@ title: "Links"
 author: " "
 ---
 
-### Newspapers articles, comments & opinions
+### Newspapers articles, news, comments & opinions
+
+- [Taller Ciencia Abierta UValpo Enero 2024](https://uv.cl/archivo-noticias-uv/26426-director-de-investigacion-de-la-facultad-de-ciencias-sociales-uchile-dicto-taller-sobre-ciencia-abierta)
 
 - [CIPER 2019 La demanda por igualdad y los caminos que cuentan con amplio respaldo ciudadano](https://www.ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/)
 
@@ -20,6 +22,8 @@ author: " "
 - “Selección en particulares y la complicidad de los psicólogos” en [El Mostrador](http://www.elmostrador.cl/noticias/opinion/2015/01/29/seleccion-en-particulares-y-la-complicidad-de-los-psicologs/) (Enero 2015).
 
 - “De la educación cívica a la educación para la ciudadanía”, en [El Mostrador](http://www.elmostrador.cl/noticias/opinion/2014/09/02/de-la-educacion-civica-a-la-educacion-para-la-ciudadania/) (Septiembre 2014)
+
+
 
 
 ### Software
@@ -97,6 +101,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Data wrangling, inference & modeling**
 
+- [Missing data and imputation: Missing Values in Clinical Research](https://nerler.github.io/EP16_Multiple_Imputation/practical/)
+
 - [Introduction to Modern Statistics (1st Ed)](https://openintro-ims.netlify.app/)
 
 -[Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
@@ -152,6 +158,12 @@ I use software compatible with the principles of open science, this is, free and
 - [How to standardize variables in R](https://data-se.netlify.app/2021/02/26/how-to-standardize-variables-in-r/)
 
 **Visualization**
+
+- [reactablefmtr: Streamlined Table Styling and Formatting for {reactable}](https://rpubs.com/kcuilla/reactablefmtr-socal-presentation?s=03)
+
+- [R Graph Gallery](https://r-graph-gallery.com/)
+
+- [ggstatsplot](https://indrajeetpatil.github.io/ggstatsplot/)
 
 - [Creating beautiful tables in R with {gt}](https://gt.albert-rapp.de/)
 
