@@ -8,8 +8,19 @@ publication_short : " 3rd Akademie für Soziologie (AS) Conference: Cohesive Soc
 abstract : "The measurement of social cohesion has been a challenge for decades. A main issue behind this challenge is the definition of social cohesion, which is far from being consensual and has led to different proposals for operationalization and measurement. Nevertheless, to our knowledge the approaches to the measurement of social cohesion have not been contrasted with each other in a systematic way, making the assessment and comparison of social cohesion indicators and indexes a difficult task. In the present paper we describe and compare several international projects aimed at conceptualizing and measuring social cohesion, such as the Social Cohesion Radar (Germany/international), the Scanlon-Monash Social Cohesion Index (Australia), ECOSOCIAL (Latin America), Mapping Social Cohesion (Canada) and the Civic Engagement and Social Cohesion report (USA). Through this comparison we identify the main commonalities as well as the disparities among these different projects. Based on this analysis we propose a simplified version for measuring social cohesion at aggregated level."
 abstract_short : ""
 url_source : "https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html"
---- # Documento de presentación
-(F para pantalla completa) <iframe width="700"  height="450" src="https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html" title="Xaringan presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+# Documento de presentación
+
+(F para pantalla completa)
+<iframe width="700"  height="450" src="https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html" title="Xaringan presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 # Extended abstract
+
 <iframe width="700"  height="450" src="https://www.dropbox.com/s/sn0efav12iqfb31/castillo%2C%20caceres%20%26%20carrasco%202021%20concepts%20and%20measurement%20social%20cohesion.pdf?raw=1" title="Extended abstract" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 [Conference web](https://cohesivesocieties.net/)

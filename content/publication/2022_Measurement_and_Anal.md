@@ -9,4 +9,5 @@ abstract : "Die empirische Erforschung des gesellschaftlichen Zusammenhalts erfo
 abstract_short : ""
 url_source : "https://ocscoes.github.io/presentaciones/RISC-bremen-january2022.html"
 ---
+
 [Github Repo](https://github.com/ocscoes/presentaciones)

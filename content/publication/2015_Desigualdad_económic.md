@@ -9,5 +9,7 @@ abstract : "La evidencia internacional en resultados de pruebas de logro académ
 abstract_short : ""
 url_source : "/docs/miranda et al 2015 conocimiento civico chile internacional libro.pdf"
 tags : ["citizenship education","ICCS"]
---- Proyecto Fondecyt Formación Ciudadana I
+---
+Proyecto Fondecyt Formación Ciudadana I
+
 ![https://ediciones.uc.cl/aprendizaje-de-la-ciudadania-contextos-experiencias-y-resultados.html](https://ediciones.uc.cl/media/catalog/product/cache/0762110bdab9bcd70faa57f20c280fd0/a/p/aprendizaje_de_la_ciudadania_1_1.png)

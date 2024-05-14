@@ -9,4 +9,5 @@ abstract : "(Abstract not available)"
 abstract_short : ""
 url_source : "https://osf.io/preprints/socarxiv/mwk52/"
 tags : ["submitted"]
---- [OSF Preregistration](https://osf.io/z45y2)[Github Repo](https://github.com/justicia-distributiva/merit-scale)
+---
+[OSF Preregistration](https://osf.io/z45y2)[Github Repo](https://github.com/justicia-distributiva/merit-scale)

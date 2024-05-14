@@ -10,5 +10,7 @@ abstract_short : ""
 url_source : "https://osf.io/preprints/socarxiv/7qgyv/"
 tags : ["distributive preferences","meritocracy"]
 ---
+
 [OSF project](https://osf.io/g4ek8/)
+
  - [Artículo publicado en CIPER enn 2019](https://www.ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/)  [Github repo](https://github.com/justicia-distributiva/merit-redist-chile2019

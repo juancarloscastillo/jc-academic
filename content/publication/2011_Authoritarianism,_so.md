@@ -8,4 +8,8 @@ publication_short : " Annual Scientific Meeting of the International Society of 
 abstract : "(Abstract not available)"
 abstract_short : ""
 tags : ["legitimacy ideology Chile"]
+
+url_slides: "lisa-coes.github.io/"
 ---
+This is a presentation funded by ANID
+Second line

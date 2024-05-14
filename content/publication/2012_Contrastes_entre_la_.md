@@ -9,4 +9,5 @@ abstract : "Aproximaciones tradicionales desde la ciencia política señalan que
 abstract_short : ""
 url_source : "https://politicaspublicas.uc.cl/publicacion/serie-temas-de-la-agenda/serie-n-57-contrastes-entre-la-desigualdad-economica-objetiva-y-subjetiva-en-chile/"
 tags : ["just inequality","perceived inequality","salary gaps"]
---- ![](/images/contrastes-temas-agenda-publica.png)
+---
+![](/images/contrastes-temas-agenda-publica.png)

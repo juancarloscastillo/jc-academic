@@ -9,4 +9,5 @@ abstract : "Estudios internacionales de gran escala enfocan gran parte de su esf
 abstract_short : ""
 url_source : "/docs/validez-mide.pdf"
 tags : ["citizenship education","iccs"]
---- ![](/images/validez-mide.jpeg)
+---
+![](/images/validez-mide.jpeg)

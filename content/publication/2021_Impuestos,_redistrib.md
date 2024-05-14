@@ -9,5 +9,7 @@ abstract : "El presente capítulo busca aportar los estudios de opinión públic
 abstract_short : ""
 url_source : "https://www.impuestosjustos.io/"
 tags : ["meritocracy","redistributive preferences"]
---- ![](/images/impuestos-justos.jpg)
+---
+![](/images/impuestos-justos.jpg)
+
 [Website](https://www.impuestosjustos.io/)

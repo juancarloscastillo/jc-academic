@@ -9,4 +9,5 @@ abstract : "La «conflictividad social» no aparece de manera notoria en la agen
 abstract_short : ""
 url_source : "/docs/Castillo et al 2015 percepción de conflicto en Chile.pdf"
 tags : ["encuesta bicentenario","Latin America","Social conditions","Social conflict","Toleration"]
---- ![](https://rileditores.com/internacional/wp-content/uploads/2020/03/9789560101761-1-scaled.jpg)
+---
+![](https://rileditores.com/internacional/wp-content/uploads/2020/03/9789560101761-1-scaled.jpg)

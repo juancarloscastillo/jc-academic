@@ -8,15 +8,27 @@ publication_short : " Taller titulación - pregrado sociología - Pontificia Uni
 abstract : "(Abstract not available)"
 abstract_short : ""
 tags : ["Miembro comité evaluador"]
-url_pdf: "" 
-url_dataset:  "" 
-url_project: "" 
-url_slides: "" 
-url_video: "" 
+url_pdf: ""
+
+url_dataset:  ""
+
+url_project: ""
+
+url_slides: ""
+
+url_video: ""
+
 url_poster: ""
-links: 
-- icon: square-check 
-  icon_pack: fa 
-  name:   
+links:
+
+- icon: square-check
+
+  icon_pack: fa
+
+  name:  
+
   url: 
+
+
+
 ---

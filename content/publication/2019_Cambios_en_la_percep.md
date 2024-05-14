@@ -9,4 +9,5 @@ abstract : "Este artículo analiza los cambios en percepción  y justificación 
 abstract_short : ""
 url_source : "https://github.com/juancarloscastillo/equal_pay/blob/master/castillo-et-al2019-analisis-del-anho.pdf"
 tags : ["Chile","just inequality","perceived inequality","salary gaps"]
---- [Github Repo](https://github.com/justicia-distributiva/chile-ISSP-gaps-1999-2019)
+---
+[Github Repo](https://github.com/justicia-distributiva/chile-ISSP-gaps-1999-2019)

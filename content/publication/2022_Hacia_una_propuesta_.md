@@ -9,4 +9,6 @@ abstract : "El objetivo de este informe es responder a un requerimiento que busc
 abstract_short : ""
 url_source : "https://ocscoes.github.io/cohesion-elsoc/index.html"
 tags : ["social cohesion"]
---- ISSN 0719-6660 [Github Repo](https://github.com/ocscoes/cohesion-elsoc)
+---
+ISSN 0719-6660
+[Github Repo](https://github.com/ocscoes/cohesion-elsoc)

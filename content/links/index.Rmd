@@ -101,6 +101,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Data wrangling, inference & modeling**
 
+- [Introducción al procesamiento de datos con R para Ciencias Sociales](https://intro-r-eph.netlify.app/)
+
 - [Missing data and imputation: Missing Values in Clinical Research](https://nerler.github.io/EP16_Multiple_Imputation/practical/)
 
 - [Introduction to Modern Statistics (1st Ed)](https://openintro-ims.netlify.app/)

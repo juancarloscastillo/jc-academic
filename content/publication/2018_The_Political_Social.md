@@ -10,4 +10,5 @@ abstract_short : ""
 url_source : "https://doi.org/10.1007/978-3-319-78692-6_7"
 tags : ["Attitudes toward diversity","citizenship education","International Civic and Citizenship Education Study (ICCS)","International large-scale assessments","Multilevel structural equation models"]
 ---
+
 ![](https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-78692-6)

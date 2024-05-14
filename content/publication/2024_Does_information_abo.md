@@ -9,4 +9,5 @@ abstract : "In advanced economies, there has been an increase in socio-economic 
 abstract_short : ""
 url_source : "https://inequality-conference.de/"
 ---
+
 ![](/images/poster-konstanz.png)

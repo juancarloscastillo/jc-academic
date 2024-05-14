@@ -9,4 +9,5 @@ abstract : "Este estudio analiza el efecto de la información factual sobre desi
 abstract_short : ""
 url_source : "https://jciturras.github.io/desigualdad_recom/paper.pdf"
 ---
+
 [Github repo](https://github.com/jciturras/desigualdad_recom)

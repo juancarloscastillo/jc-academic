@@ -9,4 +9,5 @@ abstract : "Datos recientes de opinión pública de la encuesta del Centro de Es
 abstract_short : ""
 url_source : "/docs/castillo & olivos redistribucion e impuestos.pdf"
 tags : ["Chile","issp","redistributive preferences","taxation"]
---- ![](https://images-na.ssl-images-amazon.com/images/I/51wuuYWFMbL._SX345_BO1,204,203,200_.jpg)
+---
+![](https://images-na.ssl-images-amazon.com/images/I/51wuuYWFMbL._SX345_BO1,204,203,200_.jpg)

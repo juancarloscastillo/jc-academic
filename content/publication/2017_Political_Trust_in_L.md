@@ -9,4 +9,5 @@ abstract : "In this article we study how trust in political institutions has evo
 abstract_short : ""
 url_source : "/docs/handbook-political-trust.pdf"
 tags : ["Legitimacy of governments","Political participation","Political sociology"]
---- ![](https://www.e-elgar.com/shop/media/catalog/product/cache/01c740ac49768798d3ac9bd0cdac340f/9/7/9781782545101.jpg)
+---
+![](https://www.e-elgar.com/shop/media/catalog/product/cache/01c740ac49768798d3ac9bd0cdac340f/9/7/9781782545101.jpg)

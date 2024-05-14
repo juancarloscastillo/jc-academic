@@ -9,4 +9,7 @@ abstract : "Este documento tiene por objetivo describir y resumir diferentes apr
 abstract_short : ""
 url_source : "https://github.com/ocscoes/concepto-medicion/blob/main/DT47.%20Conceptos%20y%20medici%C3%B3n%20de%20cohesi%C3%B3n%20social%20en%20proyectos%20internacionales.pdf"
 tags : ["social cohesion"]
---- ISSN 0719-6660 [Github Repo](https://github.com/ocscoes/concepto-medicion) ![](https://raw.githubusercontent.com/ocscoes/concepto-medicion/main/portada.png)
+---
+ISSN 0719-6660
+[Github Repo](https://github.com/ocscoes/concepto-medicion)
+![](https://raw.githubusercontent.com/ocscoes/concepto-medicion/main/portada.png)

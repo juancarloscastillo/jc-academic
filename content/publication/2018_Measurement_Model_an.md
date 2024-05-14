@@ -10,4 +10,5 @@ abstract_short : ""
 url_source : "http://link.springer.com/10.1007/978-3-319-78692-6_3"
 tags : ["citizenship education"]
 ---
+
 ![](https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-78692-6)

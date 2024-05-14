@@ -8,18 +8,34 @@ publication_short : " Magister en Psicología Social - Pontificia Universidad Ca
 abstract : "el objetivo final de esta investigación consiste en realizar un aporte a la visión que se tiene respecto al compromiso cı́vico juvenil chileno de una manera especı́fica, y desde una aproximación cuantitativa al problema, que sirva como complemento a los estudios previamente realizados sobre este tema, los cuales han sido mayoritariamente de carácter cualitativo (Martı́nez and Cumsille, 2010; Martı́nez et al., 2010, 2012). Esto, con el afán de comprender de mejor manera cómo es que el compromiso cı́vico se da en esta etapa, dándole énfasis a ciertos factores que generan desigualdad a nivel individual, y con ello, generar evidencia que ayude a la generación de instancias y programas que lo fomenten a futuro. Para efectuar los análisis correspondientes se utilizaron los datos provistos por la “Encuesta Jóvenes, Participación y Consumo de Medios” realizada por la Escuela de Perio- dismo de la Universidad Diego Portales en conjunto con Feedback (agencia profesional de encuestas), especı́ficamente sus versiones para el año 2010 y 2014, ambos años posteriores a las últimas elecciones presidenciales en Chile. Este instrumento se prefiere por sobre otros por las temáticas especı́ficas que aborda, y porque cuenta con indicadores claves para medir el compromiso cı́vico de la manera propuesta. Además, cuenta con datos más actualizados en comparación con otras encuestas dirigidas a la juventud chilena, lo que permite visualizar los cambios ocurridos en el último tiempo (a partir de los años 2011-2012)."
 abstract_short : ""
 tags : ["Miembro comité evaluador"]
-url_pdf: "" 
-url_dataset:  "" 
-url_project: "" 
-url_slides: "" 
-url_video: "" 
+url_pdf: ""
+
+url_dataset:  ""
+
+url_project: ""
+
+url_slides: ""
+
+url_video: ""
+
 url_poster: ""
-links: 
-- icon: square-check 
-  icon_pack: fa 
-  name: Prof. Evaluador 
+links:
+
+- icon: square-check
+
+  icon_pack: fa
+
+  name: Prof. Evaluador
+
   url: /tag/miembro-comite-evaluador/
+
+
+
+
 ---
+
 ### Profesor Guía: Héctor Carvacho
+
 # Resumen
+
 Based on the five trajectories of political identification developed by Carvacho et al. (in preparation), the present work aims to explain the stability and change of two right-wing groups: one that remains stable in its political identification, and one that changes to identify with the political center in the present. We aim to explain this phenomenon by analyzing political socialization conditions that could predict the outcome of belonging to either group. Participants’ data was drawn from a study panel led by Haye, Psychosocial Study of the Political Culture in Three Chilean Generations, and it consists of participants’ self-reported answers to an interview based on a questionnaire. Even though the actual sample of the study is problematic (n1=232, n2= 27), we offer strategies to solve the problem. The analysis proposed here is to prove the difference between both groups with a MANOVA, and to make a logistic regression with the socialization variables as predictors of group outcome.

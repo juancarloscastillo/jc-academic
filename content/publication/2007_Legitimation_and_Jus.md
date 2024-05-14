@@ -8,4 +8,5 @@ publication_short : " 4 July, 2007. Portland"
 abstract : "(Abstract not available)"
 abstract_short : ""
 tags : ["legitimacy ideology Chile"]
---- International Social Justice Project - Working Paper N°125
+---
+International Social Justice Project - Working Paper N°125
