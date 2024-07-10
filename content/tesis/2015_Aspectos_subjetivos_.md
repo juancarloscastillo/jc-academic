@@ -72,4 +72,4 @@ al asociarse a la percepción de menores niveles de desigualdad (percepción) y,
 a desear mayores brechas salariales entre ocupaciones de alto y bajo estatus (creencia).
 # Documento
 
-<iframe src="/docs/TesisAlexTorresMeritocracia.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>
+<iframe src=/docs/TesisAlexTorresMeritocracia.pdf  style="min-height:100vh;width:100%" frameborder="0"></iframe>
