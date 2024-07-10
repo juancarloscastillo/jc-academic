@@ -161,6 +161,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Visualization**
 
+- [Correlations, from easystats](https://easystats.github.io/blog/posts/correlation_presentation/)
+
 - [reactablefmtr: Streamlined Table Styling and Formatting for {reactable}](https://rpubs.com/kcuilla/reactablefmtr-socal-presentation?s=03)
 
 - [R Graph Gallery](https://r-graph-gallery.com/)

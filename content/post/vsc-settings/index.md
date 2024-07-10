@@ -57,3 +57,5 @@ $ git config --global user.email johndoe@example.com
 
 
 
+# Git
+Ir a settings, Git Autofetch: true, eso permite que se vean los incoming commits (los que se van a bajar al hacer pull), y al desplegarlos se pueden evaluar los cambios archivo por archivo. Es lo que se puede hacer cuando hay un pull request, pero en este caso con un commit simple a la main branch
