@@ -30,6 +30,14 @@ links:
 
   url: /tag/guia-o-cotutor/
 
+- icon: file
+
+  icon_pack: fa
+
+  name: Documento
+
+  url: /tesis/2024_el_rol_de_la_sociali/#documento
+
 ---
 
 ![](/images/tesis-matias.png)
@@ -55,3 +63,5 @@ estatus social familiar como el escolar, cumplen un rol en la formación de las
 percepciones de meritocracia en las notas. Estos resultados sugieren que tanto la familia
 como la escuela cumplen un rol de socialización, aunque de forma distinta entre la
 importancia del esfuerzo y la importancia del talento para obtener buenas notas.
+
+<iframe src="/docs/retamales.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>

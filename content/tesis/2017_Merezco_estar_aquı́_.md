@@ -1,5 +1,5 @@
 ---
-title : "Merezco estar aquı́ Un estudio multinivel sobre la relación entre meritocracia y educación"
+title : "Merezco estar aquı́: Un estudio multinivel sobre la relación entre meritocracia y educación"
 date : "2017-01-01"
 authors : ["Diego Sandoval"]
 publication_types : ["3"]
