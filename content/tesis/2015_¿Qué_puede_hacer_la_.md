@@ -35,8 +35,7 @@ links:
 
   name: Documento
 
-  url: /tesis/2015_que_puede_hacer_la_/#documento
-
+  url: https://jc-castillo.com/docs/SantanderTesisVersionFinal.pdf
 
 
 ---
@@ -85,6 +84,3 @@ proyecta y actualiza en los espacios institucionales de deliberación y particip
 política. Finalmente, el autor entrega valiosa evidencia descriptiva sobre el
 comportamiento del liderazgo distribuido y del compromiso organizacional en las
 escuelas chilenas.
-# Documento
-
-<iframe src="/docs/SantanderTesisVersionFinal.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>

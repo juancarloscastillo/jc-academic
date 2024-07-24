@@ -29,6 +29,13 @@ links:
 
   url: /tag/guia-o-cotutor/
 
+- icon: file
+
+  icon_pack: fa
+
+  name: Documento
+
+  url:  https://jc-castillo.com/docs/acevedoversionfinal.pdf
 
 ---
 
@@ -54,7 +61,3 @@ por las temáticas especı́ficas que aborda, y porque cuenta con indicadores cl
 el compromiso cı́vico de la manera propuesta. Además, cuenta con datos más actualizados
 en comparación con otras encuestas dirigidas a la juventud chilena, lo que permite visualizar
 los cambios ocurridos en el último tiempo (a partir de los años 2011-2012).
-
-# Documento
-
-<iframe src="/docs/Tacevedoversionfinal.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>

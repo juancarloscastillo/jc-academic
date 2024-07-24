@@ -35,7 +35,7 @@ links:
 
   name: Documento
 
-  url: /tesis/2018_desigualdad_desarro/#documento
+  url: https://jc-castillo.com/docs/Tesis_InformeFinal_FRANETOVIC_CORREGIDO.pdf
 
 
 
@@ -65,7 +65,3 @@ ricas. A la luz de los resultados, se establecen comparaciones con los hallazgos
 investigaciones previas en paı́ses desarrollados, discutiéndose la aplicación de teorı́as
 racionalistas en materia de justicia y solidaridad social al interior de las sociedades
 que conforman nuestra región.
-
-# Documento
-
-<iframe src="/docs/Tesis_InformeFinal_FRANETOVIC_CORREGIDO.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>

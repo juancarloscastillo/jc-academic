@@ -35,13 +35,15 @@ links:
 
   name: Documento
 
-  url: /tesis/2018_balance_legistlativo/#documento
+  url: https://jc-castillo.com/docs/Tesis_SMontedónicoG.pdf
 
 
 
 ---
 
-# ResumenTradicionalmente las tendencias y partidos de izquierda se han asociado a un rol más
+# Resumen
+
+Tradicionalmente las tendencias y partidos de izquierda se han asociado a un rol más
 activo del Estado en temas de redistribución. Este trabajo pretende ahondar en este
 punto, analizando en qué medida la composición de los parlamentos en términos de
 izquierda-derecha (balance legislativo) se relaciona con mayores o menores preferen-
@@ -59,7 +61,3 @@ anteriores. Por todo lo anterior, se sugiere que para promover el apoyo a polı�
 distributivas se debe desarrollar instituciones polı́ticas socialmente válidas y analizar
 los factores que están asociados a tendencia hacia la izquierda del aparato legislativo,
 dado que algún elemento de ello genera un desincentivo hacia la redistribución.
-
-# Documento
-
-<iframe src="/docs/Tesis_SMontedónicoG.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>

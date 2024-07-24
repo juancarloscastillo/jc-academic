@@ -35,8 +35,7 @@ links:
 
   name: Documento
 
-  url: /tesis/2015_aspectos_subjetivos_/#documento
-
+  url: https://jc-castillo.com/docs/TesisAlexTorresMeritocracia.pdf
 
 
 ---
@@ -70,6 +69,3 @@ no se asocia a los elementos considerados en el modelo. Respecto de la desiguald
 observa que la meritocracia funcionaria como una estrategia legitimadora, por un lado,
 al asociarse a la percepción de menores niveles de desigualdad (percepción) y, por otro,
 a desear mayores brechas salariales entre ocupaciones de alto y bajo estatus (creencia).
-# Documento
-
-<iframe src=/docs/TesisAlexTorresMeritocracia.pdf  style="min-height:100vh;width:100%" frameborder="0"></iframe>

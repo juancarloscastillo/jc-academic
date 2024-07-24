@@ -35,7 +35,7 @@ links:
 
   name: Documento
 
-  url: /tesis/2016_legitimidad_del_sist/#documento
+  url: https://jc-castillo.com/docs/FinalCorregidaAgosto2016.pdf
 
 
 
@@ -49,7 +49,3 @@ Los datos utilizados provienen del Estudio Nacional sobre el Conflicto y la Cohe
 El análisis se basa en datos empíricos recopilados mediante el Análisis de Clases Latentes, que permiten identificar perfiles de participación y explorar la diversificación del repertorio político en la ciudadanía chilena. Se destaca la importancia de considerar la educación y los ingresos como factores que pueden influir en las percepciones de deprivación relativa y, por ende, en la motivación para la acción política.
 
 Los resultados preliminares sugieren que las percepciones sobre la legitimidad del sistema económico juegan un papel significativo en el comportamiento político de los individuos, especialmente en un contexto de crisis de representatividad y distanciamiento entre la política partidista y la ciudadanía común. Se plantea la necesidad de profundizar en la comprensión de estos mecanismos para abordar los desafíos actuales en materia de participación política y legitimidad institucional en Chile.
-
-# Documento
-
-<iframe src="/docs/FinalCorregidaAgosto2016.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>

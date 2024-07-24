@@ -35,7 +35,7 @@ links:
 
   name: Documento
 
-  url: /tesis/2016_medicion_en_ciudadan/#documento
+  url: https://jc-castillo.com/docs/trabajo de grado II_viertel_corregido.pdf
 
 
 
@@ -57,7 +57,3 @@ comparaciones entre países no pueden realizarse sin asumir un importante nivel 
 sesgo, mientras que la evaluación de invarianza entre escuelas que implementan
 educacion civica o no, se logra en su nivel más estricto. Se discuten aspectos
 metodológicos de las posibles fuentes de sesgo.
-
-# Documento
-
-<iframe src="/docs/trabajo de grado II_viertel_corregido.pdf" style="min-height:100vh;width:100%" frameborder="0"></iframe>
