@@ -7,11 +7,9 @@ date: "2019-03-01"
 
 La guía de seminarios de grado/memorias/tesis es una actividad de acompañamiento semestral que incluye:
 
-- asistencia y presentación en el [Coloquio de Investigación en Desigualdad y Ciudadanía](/post/coloquio/). Parte central de la elaboración de trabajos de investigación es aprender de cómo presentan su trabajo otr_s investigadores, las preguntas que surgen del público, los comentarios y la defensa de los argumentos, y la retroalimentación al presentar
+- reuniones periódicas de presentación de avances y retroalimentación
 
 - entrega de dos informes semestrales (ver abajo detalle)
-
-- reuniones de evaluación y asesoría (al menos cuatro al semestre, anotarse en [página de contacto](/contacto/))
 
 <br>
 
@@ -23,7 +21,7 @@ Se entregarán 2 informes durante el semestre, uno de avance y uno final. Cada i
 
   - informe de avance: contempla la definición del problema de investigación, objeto de estudio, pregunta de investigación, revisión inicial de literatura, propuesta de sección metodológica disponibilidad de datos. (app. 1000 palabras).
 
-  - informe final: debe incorporar los comentarios al informe de avance y avanzar en la propuesta metodológica incluyendo análisis preliminares univariados. (app 3000 palabras)
+  - informe final: debe incorporar los comentarios al informe de avance y avanzar en la propuesta metodológica incluyendo análisis preliminares univariados. (app 4000 palabras)
 
 - Seminario de título 1
 
@@ -35,14 +33,14 @@ Se entregarán 2 informes durante el semestre, uno de avance y uno final. Cada i
 
   - informe de avance: finalización de análisis y contraste de hipótesis, borrador de conclusión
 
-  - informe final: incorporación de comentarios y finalización de conclusiones. (app 10000 palabras)
+  - informe final: incorporación de comentarios y finalización de conclusiones. (app 10000/12000 palabras)
 
 
 <br>
 
 ### Funcionamiento:
 
-- seminaristas/tesistas se incorporan a canal de Slack, donde se comparte información relativa a las investigaciones y se hace entrega de los informes
+- seminaristas/tesistas se incorporan a [canal de Slack], donde se comparte información relativa a las investigaciones y se hace entrega de los informes
 
 - la entrega de informes puede ser en pdf o html. Se recomienda usar [tesisfacsodown](https://juancarloscastillo.github.io/tesisfacsodown/) (video taller [aquí](https://www.dropbox.com/s/u3g2x74nj31jsu1/zoom_0.mp4?raw=1)), que permite ambas salidas. Documento de presentación [aquí](documents/talleres-cursos/tesisfacsodown/tesisfacsodown.html)
 
