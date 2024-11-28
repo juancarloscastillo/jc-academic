@@ -1,7 +1,7 @@
 ---
 title: "Escritura-académica"
 author: ".small[Juan Carlos Castillo <br><br> Departamento de Sociología - UCH / COES <br><br>]"
-date: "1 Sem 2021"
+date: "28 Nov 2024"
 output:
   xaringan::moon_reader:
 #    includes:
@@ -13,7 +13,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+      beforeInit: "https://multinivel.netlify.app/docpres/xaringan_custom/macros.js"
     seal: false # esto omite title slide automática
 ---
 class: front right hide-logo
@@ -25,13 +25,15 @@ background-size: cover
 <br>
 <br>
 
-# .grey[Algunas Notas y Recomendaciones sobre] .purple[Escritura Académica]
+# .grey[Taller de] .purple[Escritura Académica]
 
-.white[Juan Carlos Castillo]
+<br>
+
+.white[Juan Carlos Castillo, Departamento de Sociología - Universidad de Chile]
 
 [.purple[jc-castillo.com]](https://juancarloscastillo.github.io/jc-castillo/)
 
-.small[Abril 2021]
+.small[Noviembre 2024]
 
 ???
 
@@ -76,6 +78,12 @@ class: inverse middle center
 class: inverse middle center
 
 ### Típicamente, las secciones de un trabajo (empírico) son: abstract, introducción, antecedentes conceptuales y empíricos , datos variables y métodos, resultados/discusión, conclusiones
+
+---
+class: center
+ 
+ 
+![:scale 40%](https://jc-castillo.com/post/escritura-academica/sandclock_hu762e9e1af0af75eb5b2c1e5545f49bb6_81903_1200x1200_fit_lanczos_2.png)
 
 ---
 class: inverse

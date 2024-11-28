@@ -196,6 +196,10 @@ Típicamente, las secciones de un trabajo son:
 
 # Recursos escritura, búsqueda información y publicación:
 
+- [Presentación seminario escritura académica FACSO Nov 2024](static/docencia/talleres/escritura-academica/escritura-academica.html)
+
+- [Best Practices for Using AI When Writing Scientific Manuscripts](https://pubs.acs.org/doi/10.1021/acsnano.3c01544)
+
 - [Cómo escribir un artículo científico por primera vez](https://www.sciencedirect.com/science/article/abs/pii/S1134593417300040)
 
 - [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)

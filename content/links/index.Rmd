@@ -101,6 +101,8 @@ I use software compatible with the principles of open science, this is, free and
 
 **Data wrangling, inference & modeling**
 
+-[Infer: Inferencia estadística en R](https://infer.netlify.app/)
+
 - [Introducción al procesamiento de datos con R para Ciencias Sociales](https://intro-r-eph.netlify.app/)
 
 - [Missing data and imputation: Missing Values in Clinical Research](https://nerler.github.io/EP16_Multiple_Imputation/practical/)
@@ -160,6 +162,8 @@ I use software compatible with the principles of open science, this is, free and
 - [How to standardize variables in R](https://data-se.netlify.app/2021/02/26/how-to-standardize-variables-in-r/)
 
 **Visualization**
+
+- [Replicar grafico desde imagen con R con ask](https://x.com/RosanaFerrero/status/1842123728668262696?t=wzlHpiCU6_KbfTMUCdOawg&s=03)
 
 - [Correlations, from easystats](https://easystats.github.io/blog/posts/correlation_presentation/)
 
@@ -257,6 +261,11 @@ I use software compatible with the principles of open science, this is, free and
 - [Menti](https://www.menti.com/)
 
 - [Quarto for Academics](https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/)
+
+## Survey research
+
+- [ChatGPTest: Opportunities and Cautionary Tales of Utilizing AI for Questionnaire Pretesting](https://journals.sagepub.com/doi/10.1177/1525822X241280574?s=03)
+
 
 
 ### Following people
